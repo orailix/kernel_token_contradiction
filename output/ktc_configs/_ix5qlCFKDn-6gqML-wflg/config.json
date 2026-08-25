@@ -1,0 +1,13 @@
+{
+    "_base_output_dir": ".",
+    "kernel_method": "heat",
+    "normalization_method": "comb",
+    "prefix_entail": true,
+    "language_specific": false,
+    "token_position": 0,
+    "delta": 24,
+    "nu": 8,
+    "sigma": 3,
+    "tau": 0.3,
+    "alpha": 1.0
+}

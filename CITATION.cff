@@ -1,0 +1,47 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Kernel Token Contradiction: a Fast and Principled Approach
+  for LLM Claim Uncertainty Quantification
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Jérémie
+    family-names: Dentan
+    orcid: 'https://orcid.org/0009-0001-5561-8030'
+  - given-names: Mahammed
+    family-names: El Sharkawy
+    orcid: 'https://orcid.org/0009-0006-4175-2075'
+  - given-names: Alexi
+    family-names: Canesse
+    orcid: 'https://orcid.org/0009-0005-1494-4736'
+  - given-names: Sonia
+    family-names: Vanier
+    orcid: 'https://orcid.org/0000-0001-6390-8882'
+identifiers:
+  - type: url
+    value: 'https://arxiv.org/pdf/2608.22506'
+repository-code: 'https://github.com/orailix/kernel_token_contradiction'
+abstract: >-
+  Claim-level Uncertainty Quantification (UQ) aims to mitigate the lack of 
+  reliability of Large Language Models (LLMs) by evaluating the factuality 
+  of each claim in their outputs. We introduce Kernel Token Contradiction (KTC), 
+  a lightweight approach to compute claim-level UQ under realistic white-box 
+  conditions. KTC represents the candidate tokens involved in LLM generation as 
+  a positive semi-definite kernel that integrates both the LLM's conditional 
+  distribution and a token contradiction score. We then use the Von Neumann 
+  entropy to quantify the uncertainty of this kernel. To estimate token 
+  contradiction, we develop a new approach based on frequency statistics from the 
+  Wikipedia corpus. Although CPU-only, our approach achieves over an 8.2x speedup 
+  compared to state-of-the-art GPU-accelerated methods based on cross-encoders, 
+  and over a 65x speedup compared to CPU-only methods with comparable performance. 
+  Our evaluation spans two benchmarks across four European languages and 16 
+  different models. KTC not only matches the average performance of existing methods 
+  but also outperforms them in high-precision regimes. This combination of 
+  computational efficiency and accuracy makes real-time monitoring of LLM outputs 
+  practical in production.
+license: Apache-2.0

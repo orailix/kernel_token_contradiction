@@ -1,0 +1,12 @@
+{
+    "_base_output_dir": ".",
+    "model_name": "mistralai/Mistral-7B-Instruct-v0.2",
+    "eager": false,
+    "brief": true,
+    "greedy": false,
+    "seed": 0,
+    "temperature": 1.0,
+    "top_p": 0.9,
+    "top_k": 20,
+    "max_new_tokens": 500
+}
