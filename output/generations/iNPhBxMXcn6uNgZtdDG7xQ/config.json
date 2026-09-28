@@ -1,0 +1,12 @@
+{
+    "_base_output_dir": ".",
+    "model_name": "meta-llama/Llama-3.2-3B-Instruct",
+    "eager": false,
+    "brief": true,
+    "greedy": false,
+    "seed": 1234,
+    "temperature": 1.0,
+    "top_p": 0.9,
+    "top_k": 20,
+    "max_new_tokens": 500
+}

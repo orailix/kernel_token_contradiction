@@ -1,0 +1,667 @@
+{"generation_id": "j6mOryTIZ6Ca7j5U9ubkEA", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "SKk7IqiEhqgFVGQggrC7hw", "token_chunks": [[0, 1, 2, 3, 4], [5, 6, 7], [8, 9, 10, 11], [12]], "labels": {"gpt-4o": [1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1]}}
+{"generation_id": "cI2-jh-kJLbf_PtZXixO9Q", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "YeMgzc1IadD5iUCzopDnmQ", "token_chunks": [[0, 1], [2, 3], [4, 5, 6], [7, 8], [9, 10], [11, 12], [13, 14, 15, 16, 17], [18]], "labels": {"gpt-4o": [-1, -1, -1, -1, -1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, -1, -1, -1, -1, 1]}}
+{"generation_id": "XIMqsCi-mzwgSRnvneqrNQ", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "TI2I51hUitJBBGb3fLowew", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "C_Bmq8L2KVkiUuJ6RYMstw", "token_chunks": [[0, 1, 2, 3, 4, 5], [6, 7, 8, 9, 10, 11, 12], [13]], "labels": {"gpt-4o": [1, 1, 1], "gpt-4.1": [1, 1, 1]}}
+{"generation_id": "TJh4qIR8SChUaSjNpXoMkQ", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7], [8, 9, 10, 11, 12, 13, 14, 15, 16], [17]], "labels": {"gpt-4o": [1, -1, 1], "gpt-4.1": [1, -1, 1]}}
+{"generation_id": "FbfqPHk-nI4a3t4siE3x9g", "token_chunks": [[0, 1, 2, 3], [4, 5, 6, 7, 8], [9, 10, 11, 12], [13]], "labels": {"gpt-4o": [1, -1, 1, 1], "gpt-4.1": [1, -1, 1, 1]}}
+{"generation_id": "ozCiEnOPTMEYZSlvtgs3fQ", "token_chunks": [[0, 1, 2], [3, 4, 5, 6, 7, 8, 9, 10, 11, 12], [13]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "9uyX1a0po3sxC7lfd4ja4Q", "token_chunks": [[0, 1], [2, 3], [4, 5, 6, 7, 8, 9, 10, 11, 12, 13], [14]], "labels": {"gpt-4o": [1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1]}}
+{"generation_id": "mnNgdZmuTdebVh47h76zVQ", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "4YCmJeh5PS64gw9j3Nmw6A", "token_chunks": [[0, 1, 2], [3, 4], [5, 6, 7], [8, 9, 10, 11, 12, 13], [14]], "labels": {"gpt-4o": [1, 1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1, 1]}}
+{"generation_id": "FBoiavJmsja9CbmyXzAN1g", "token_chunks": [[0, 1, 2], [3, 4, 5, 6, 7], [8, 9, 10, 11, 12, 13, 14], [15, 16, 17, 18, 19, 20], [21, 22, 23, 24, 25], [26, 27, 28, 29, 30], [31, 32, 33, 34, 35], [36]], "labels": {"gpt-4o": [1, 1, -1, -1, -1, -1, -1, 1], "gpt-4.1": [1, 1, -1, -1, -1, -1, -1, 1]}}
+{"generation_id": "j1Px4lVnd3uGluPYysXUVg", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "HONIJjU33-AaR3x6zpc0jg", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "ZDJ7P9Hf3go9-ad9dPEs1Q", "token_chunks": [[0, 1, 2], [3, 4, 5, 6], [7, 8, 9, 10, 11, 12], [13]], "labels": {"gpt-4o": [1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1]}}
+{"generation_id": "vabbRnZdekq1wF6E_X6_zQ", "token_chunks": [[0, 1, 2, 3], [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17], [18]], "labels": {"gpt-4o": [1, -1, 1], "gpt-4.1": [1, -1, 1]}}
+{"generation_id": "KNra8X8dObpb94sWhVyTiw", "token_chunks": [[0, 1, 2], [3, 4], [5, 6, 7, 8, 9], [10, 11, 12, 13, 14, 15, 16], [17, 18, 19, 20], [21, 22, 23], [24, 25, 26, 27, 28, 29, 30, 31, 32], [33, 34], [35, 36], [37, 38, 39, 40, 41, 42, 43], [44]], "labels": {"gpt-4o": [1, 1, 1, -1, -1, -1, -1, 1, -1, -1, 1], "gpt-4.1": [1, 1, 1, -1, -1, -1, -1, 1, -1, -1, 1]}}
+{"generation_id": "2VMLkBM2mAf5w5S5XRRMeg", "token_chunks": [[0, 1, 2, 3, 4], [5, 6, 7, 8, 9, 10, 11, 12, 13], [14]], "labels": {"gpt-4o": [1, -1, 1], "gpt-4.1": [1, -1, 1]}}
+{"generation_id": "MbxbSx5UpFBQOddhf_aNwg", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "o2HSAKsB-g-s-ayCdwYGUw", "token_chunks": [[0, 1, 2], [3, 4, 5], [6, 7, 8], [9]], "labels": {"gpt-4o": [1, -1, -1, 1], "gpt-4.1": [1, -1, -1, 1]}}
+{"generation_id": "2vnlfdt0TPG3DVlU-6sN7Q", "token_chunks": [[0, 1, 2, 3], [4, 5, 6, 7, 8, 9, 10], [11]], "labels": {"gpt-4o": [-1, 1, 1], "gpt-4.1": [-1, 1, 1]}}
+{"generation_id": "Re2I7aPVv3NrYBIVFxBYtQ", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10], [11]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "iLkDkNdNc9AZunGs3QdoBg", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "wr1qLv3mO7SRYtkS7pS9wg", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "unAqsEk0f69Brznq89YOZA", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "XgIFnb3mY0Y6_rAzthUMJg", "token_chunks": [[0, 1], [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16], [17, 18, 19, 20, 21], [22]], "labels": {"gpt-4o": [1, -1, -1, 1], "gpt-4.1": [1, -1, -1, 1]}}
+{"generation_id": "-3BMV_6kQ3KLh41nhjhK_w", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "kjmY-TYbhPOcZAcokTm6Bg", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "kNybfz5BGRYJ3cYjr2uZjA", "token_chunks": [[0, 1], [2, 3, 4, 5, 6, 7, 8, 9], [10, 11, 12, 13, 14, 15], [16]], "labels": {"gpt-4o": [1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1]}}
+{"generation_id": "1lAddPonULhXffZY5LZVAw", "token_chunks": [[0, 1, 2], [3, 4, 5, 6, 7, 8, 9], [10]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "khUYdNXGZz8qymarZIM11A", "token_chunks": [[0, 1, 2, 3, 4, 5], [6]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "pWyXb_V7S2OYbhTKHfhU4Q", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "RzU1hXEMHdoQL_4y7tFG5A", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], [15]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "aUW-q-zFZ11l2ujTtSrSTg", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "dQgJm7AwuLzrMaO8NsQ2mg", "token_chunks": [[0, 1, 2], [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13], [14]], "labels": {"gpt-4o": [1, -1, 1], "gpt-4.1": [1, -1, 1]}}
+{"generation_id": "2s33QKrCXNaJcoeAAbtWSg", "token_chunks": [[0, 1, 2, 3], [4, 5], [6, 7, 8, 9], [10, 11, 12, 13, 14, 15, 16], [17]], "labels": {"gpt-4o": [1, 1, -1, -1, 1], "gpt-4.1": [1, 1, -1, -1, 1]}}
+{"generation_id": "lBpIFFoWDfeT4A-nsqhB1A", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "gxNlTQo48rlWzu9fHN-aQA", "token_chunks": [[0, 1], [2, 3], [4, 5, 6], [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17], [18, 19, 20, 21, 22, 23, 24], [25, 26, 27, 28, 29, 30], [31, 32, 33, 34, 35, 36], [37, 38, 39, 40, 41, 42, 43, 44, 45], [46, 47, 48, 49, 50, 51], [52, 53, 54, 55, 56, 57, 58], [59, 60, 61, 62, 63, 64], [65, 66, 67, 68, 69, 70], [71, 72, 73, 74, 75, 76, 77], [78]], "labels": {"gpt-4o": [1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1], "gpt-4.1": [1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1]}}
+{"generation_id": "bt2Tt-5dM4lzNil9-_98lw", "token_chunks": [[0, 1, 2, 3, 4, 5], [6]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "26rlFSwm5eDvNqXF1z0tOQ", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "o3HlWEnbJW_k-NvbSkZc-A", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], [12]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "eCyH7NnyOK7YnI0OyFcLEg", "token_chunks": [[0, 1, 2, 3, 4, 5], [6, 7, 8, 9, 10], [11, 12, 13, 14, 15, 16, 17], [18]], "labels": {"gpt-4o": [1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1]}}
+{"generation_id": "Dp5o2LZA0uDfP2Fvn6u1lQ", "token_chunks": [[0, 1, 2], [3, 4, 5, 6, 7, 8, 9, 10], [11]], "labels": {"gpt-4o": [1, -1, 1], "gpt-4.1": [1, -1, 1]}}
+{"generation_id": "B2ggrammmFNhY6PYSQo0dQ", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "eYiP8aPD5ECRFWLbrdzJOg", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "mD9QVGRq_p3Wgv_hadNTYg", "token_chunks": [[0, 1, 2], [3, 4], [5, 6], [7, 8, 9, 10], [11, 12], [13, 14], [15, 16], [17, 18], [19, 20, 21], [22]], "labels": {"gpt-4o": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}}
+{"generation_id": "Jbwf9-4MiUjnKu7IGdO2-g", "token_chunks": [[0, 1, 2, 3], [4, 5], [6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16], [17, 18, 19, 20], [21]], "labels": {"gpt-4o": [1, 1, -1, -1, 1], "gpt-4.1": [1, 1, -1, -1, 1]}}
+{"generation_id": "jZiFxGUvg0dUgiwOAfJqcg", "token_chunks": [[0, 1], [2, 3, 4, 5, 6, 7], [8]], "labels": {"gpt-4o": [1, -1, 1], "gpt-4.1": [1, -1, 1]}}
+{"generation_id": "cAVQ2mgyPkAF99ybsPjaRQ", "token_chunks": [[0, 1, 2, 3, 4, 5, 6], [7, 8], [9, 10], [11, 12, 13, 14, 15, 16], [17]], "labels": {"gpt-4o": [1, 1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1, 1]}}
+{"generation_id": "xRLmEGBufOAfXxScYU1F_A", "token_chunks": [[0, 1, 2], [3, 4, 5], [6]], "labels": {"gpt-4o": [1, 1, 1], "gpt-4.1": [1, 1, 1]}}
+{"generation_id": "r-5PT03GpY8SqI5svZwJDg", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8, 9], [10, 11, 12, 13, 14, 15], [16]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "3_RkjLf973-CM10LC1XY3w", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "axPUI3QIw7KOLFJceyQGVw", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "CH-3mvugql0JejZkF-TQEw", "token_chunks": [[0, 1, 2, 3, 4, 5, 6], [7, 8, 9, 10, 11, 12, 13], [14, 15, 16, 17, 18], [19, 20, 21, 22, 23], [24, 25, 26, 27, 28, 29], [30, 31, 32, 33], [34]], "labels": {"gpt-4o": [1, 1, -1, 1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1, 1, -1, 1]}}
+{"generation_id": "GydQJgo7z4Bq1gutXyesIg", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "1wXNGQfFviRCnBCaiapTKA", "token_chunks": [[0, 1, 2, 3, 4, 5], [6]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "QdhdHSjSBcUuZM2DmxG1yg", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8], [9]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "zoQZX7AuewclbnrdzZx1rw", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8], [9]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "5c56n6vEv3lRVDdg14MgPA", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "ELU0_gGELF9ox4GutWRiBA", "token_chunks": [[0, 1, 2, 3], [4, 5], [6, 7, 8], [9]], "labels": {"gpt-4o": [-1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, 1]}}
+{"generation_id": "KyTEQcEa_fyPoKbVYB7OmA", "token_chunks": [[0, 1, 2, 3, 4, 5], [6, 7, 8, 9, 10, 11, 12, 13], [14, 15, 16, 17, 18, 19, 20], [21]], "labels": {"gpt-4o": [1, -1, 1, 1], "gpt-4.1": [1, -1, 1, 1]}}
+{"generation_id": "xhgIa1ZJBrg1iOs8Y7ZJIg", "token_chunks": [[0, 1, 2], [3, 4, 5, 6, 7, 8], [9]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "YBdnkoEWC33jXuPWBvWbbw", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "zIaJsXf4QeInAxDeTWxI6w", "token_chunks": [[0, 1, 2, 3, 4, 5], [6]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "m5fDjvzPtsVHmAGE90C-2w", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "1grksvpnDFhpd75fI4ftrA", "token_chunks": [[0, 1, 2, 3, 4, 5], [6]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "CZcw2qLSS8WvPscqVaPrBA", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "r1CNQVHhZkv8F7Ws6yTOyw", "token_chunks": [[0, 1, 2, 3], [4, 5, 6, 7, 8], [9, 10, 11, 12, 13, 14, 15], [16, 17, 18], [19]], "labels": {"gpt-4o": [1, 1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1, 1]}}
+{"generation_id": "jx74wxSE15rEVEK7X2ONzg", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10], [11]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "y-mM112jamRwvWNOQyKEsg", "token_chunks": [[0, 1], [2, 3], [4, 5], [6, 7, 8, 9, 10], [11, 12, 13, 14, 15], [16]], "labels": {"gpt-4o": [1, 1, 1, -1, -1, 1], "gpt-4.1": [1, 1, 1, -1, -1, 1]}}
+{"generation_id": "UO7NLpqFF5RxaBGLeIjLTA", "token_chunks": [[0, 1, 2, 3], [4, 5, 6, 7, 8, 9], [10, 11, 12, 13, 14, 15], [16, 17, 18, 19, 20, 21], [22, 23, 24, 25, 26, 27, 28], [29]], "labels": {"gpt-4o": [-1, -1, -1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, -1, -1, 1]}}
+{"generation_id": "HSLadnSGDfGxwDbGo3smDw", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "hjJxW1kWzWHVe3JJWHp_fQ", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "d7gnnbJK_DOdbdTHDJECxA", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "aTq3fskEpYu1erFHSjo1KQ", "token_chunks": [[0, 1, 2], [3, 4, 5, 6, 7, 8, 9, 10], [11, 12, 13, 14, 15, 16, 17, 18], [19, 20, 21, 22, 23, 24], [25, 26, 27, 28, 29], [30]], "labels": {"gpt-4o": [1, 1, -1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1, -1, 1]}}
+{"generation_id": "-8W35AqRNEkkQR-xWMtksg", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "hC8mMdzr3DcQ3mQDI3zrFw", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7], [8]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "z6UPJ5iFYvF9q0vZMm1rCA", "token_chunks": [[0, 1, 2, 3, 4], [5, 6, 7, 8, 9, 10, 11], [12]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "wdvMVvAwSZ_2qKLekVrhig", "token_chunks": [[0, 1, 2, 3], [4, 5], [6, 7, 8, 9], [10]], "labels": {"gpt-4o": [1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1]}}
+{"generation_id": "sYCrgkvJE8_g0-7U3Gj_vw", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10], [11]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "0AK3wNclCJ6zhh7TAy5TSQ", "token_chunks": [[0, 1, 2, 3, 4, 5, 6], [7]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "2W6_GoIDHXPKQeEyRBaCng", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8], [9, 10, 11], [12, 13, 14, 15, 16, 17, 18], [19]], "labels": {"gpt-4o": [1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1]}}
+{"generation_id": "7FeD3iBrKW89c-HDBAmFgQ", "token_chunks": [[0, 1, 2, 3, 4, 5, 6], [7, 8, 9, 10], [11, 12, 13, 14], [15]], "labels": {"gpt-4o": [-1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, 1]}}
+{"generation_id": "JpgizYvb2bVt2KhqdPx8ng", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "AbbNMFru2TptZ7RgGkNiFw", "token_chunks": [[0, 1, 2], [3, 4, 5], [6, 7, 8], [9, 10, 11, 12, 13], [14]], "labels": {"gpt-4o": [1, 1, -1, -1, 1], "gpt-4.1": [1, 1, -1, -1, 1]}}
+{"generation_id": "83BFHK0mRR58Sk9zyLcjbA", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "_MIask6KaiyxdW5xxAVT8w", "token_chunks": [[0, 1], [2, 3, 4, 5, 6, 7, 8, 9, 10], [11, 12, 13], [14, 15, 16, 17, 18, 19, 20], [21, 22, 23, 24, 25, 26, 27], [28]], "labels": {"gpt-4o": [1, 1, 1, -1, -1, 1], "gpt-4.1": [1, 1, 1, -1, -1, 1]}}
+{"generation_id": "jvRd4nBFlGBacrxCcwde0A", "token_chunks": [[0, 1, 2, 3], [4, 5, 6, 7, 8, 9, 10], [11]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "wwAtFL85vwqP69xOCj_C6Q", "token_chunks": [[0, 1, 2], [3, 4], [5, 6], [7, 8], [9, 10, 11, 12], [13, 14, 15, 16, 17, 18, 19, 20, 21], [22, 23, 24, 25, 26, 27, 28], [29]], "labels": {"gpt-4o": [1, 1, 1, -1, -1, -1, -1, 1], "gpt-4.1": [1, 1, 1, -1, -1, -1, -1, 1]}}
+{"generation_id": "v4vmDWbKABDO7B3SXbDD7g", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "8a71HaXWqSUzdQBSuZL6Cw", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "eooI3xT7sDfhVz90s947FQ", "token_chunks": [[0, 1], [2, 3, 4, 5, 6], [7]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "llEuvVPhYMp9VS8l5KaISw", "token_chunks": [[0, 1, 2], [3, 4, 5, 6, 7], [8]], "labels": {"gpt-4o": [1, -1, 1], "gpt-4.1": [1, -1, 1]}}
+{"generation_id": "hnkOye8RqQ36eDYsudmRNQ", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8, 9], [10]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "-yGRKoJwfOEq1rki9gxDtQ", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "erDAHre-wnqkywcmKNW7LA", "token_chunks": [[0, 1, 2, 3], [4, 5, 6, 7, 8, 9, 10, 11, 12], [13, 14, 15, 16, 17, 18, 19, 20], [21, 22, 23], [24]], "labels": {"gpt-4o": [1, 1, -1, -1, 1], "gpt-4.1": [1, 1, -1, -1, 1]}}
+{"generation_id": "CPfA1O2-tnDSOSJ2lSH3FQ", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "xEO78O77l56WB5P-xykz-Q", "token_chunks": [[0, 1], [2, 3, 4, 5], [6, 7, 8, 9], [10, 11, 12], [13, 14, 15, 16, 17, 18, 19], [20]], "labels": {"gpt-4o": [-1, -1, -1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, -1, -1, 1]}}
+{"generation_id": "Hdp-vfmgfXB26aD7526Dmw", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "ylUiPAJC4m-vo_FTLSi0oA", "token_chunks": [[0, 1], [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], [15]], "labels": {"gpt-4o": [1, -1, 1], "gpt-4.1": [1, -1, 1]}}
+{"generation_id": "2WiT3SGqC3YGOKOimE8E2A", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "YyRpr3FJNwhDPH1J3uHxVQ", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "vXLDLqsKN4WMNf23qX4nOg", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "33K0OwS6RyCerHwIe2AVYQ", "token_chunks": [[0, 1], [2, 3, 4], [5, 6, 7, 8, 9, 10], [11, 12, 13], [14, 15, 16, 17, 18, 19, 20, 21, 22], [23]], "labels": {"gpt-4o": [-1, -1, -1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, -1, -1, 1]}}
+{"generation_id": "ebIS0203rjb5hOtVQ6l4lQ", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "r6LpLGVF6hKUHFe27EHVNA", "token_chunks": [[0], [1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1, 1], "gpt-4.1": [-1, 1, 1]}}
+{"generation_id": "4hxiSCv-YrYWn05J3F3KeQ", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "tFhF7bqRSkNh99Pwis_bYw", "token_chunks": [[0, 1, 2], [3, 4, 5, 6], [7, 8, 9, 10, 11], [12, 13, 14, 15], [16]], "labels": {"gpt-4o": [1, 1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1, 1]}}
+{"generation_id": "4dN2zanRVP7ERarLfuRn7A", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "tnHx2Te4dsx_0ATxo54JgQ", "token_chunks": [[0, 1], [2, 3, 4, 5, 6], [7, 8, 9, 10], [11]], "labels": {"gpt-4o": [-1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, 1]}}
+{"generation_id": "jjCQO6W1LRXey5V6V45a2g", "token_chunks": [[0, 1, 2, 3, 4, 5, 6], [7]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "DuYwtlZn419pd5KEnE8heQ", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "NvA7QyYerS9i3fKQHCyinw", "token_chunks": [[0, 1, 2, 3], [4, 5], [6, 7, 8], [9, 10, 11, 12, 13, 14, 15, 16, 17, 18], [19, 20, 21], [22]], "labels": {"gpt-4o": [1, 1, 1, -1, 1, 1], "gpt-4.1": [1, 1, 1, -1, 1, 1]}}
+{"generation_id": "iqA94cpaTFljBlUiNvxYCA", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "1oPDrtKCY7dWeKOjfwI5aw", "token_chunks": [[0, 1, 2, 3, 4, 5, 6], [7]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "L8GWtYPcymavkBpiXZFkTA", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "52FA8VRghvyUdSXY4yw-xw", "token_chunks": [[0, 1, 2, 3, 4], [5, 6], [7, 8, 9], [10]], "labels": {"gpt-4o": [-1, 1, 1, 1], "gpt-4.1": [-1, 1, 1, 1]}}
+{"generation_id": "KdaLbyvMd3GVH10xzGc0Pw", "token_chunks": [[0, 1], [2, 3, 4, 5, 6], [7]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "HM8kcMgJgXWgjCytvchgUg", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "mDQgfv-wNPrau8uTAm6X8g", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "uUfGeE9oWKl3fKX3CBxuXA", "token_chunks": [[0, 1, 2, 3, 4, 5], [6, 7, 8, 9, 10, 11, 12, 13], [14]], "labels": {"gpt-4o": [1, -1, 1], "gpt-4.1": [1, -1, 1]}}
+{"generation_id": "SyuVJvzTfOpTBqNmd2WqqQ", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "6keHxFouhtUYuleYZ9Gkfg", "token_chunks": [[0, 1, 2, 3], [4, 5], [6, 7, 8, 9, 10], [11]], "labels": {"gpt-4o": [1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1]}}
+{"generation_id": "XDWhD__Eip3w1StIxs4SuA", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "9u2-6eIapSFMLpgoFtt6Iw", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7], [8]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "4wq3KIweeP97lsmHNZNWrw", "token_chunks": [[0, 1, 2, 3], [4, 5], [6, 7, 8], [9, 10, 11], [12]], "labels": {"gpt-4o": [1, 1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1, 1]}}
+{"generation_id": "r1qu4N-rjvRvbifFl_-p0w", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "T1AFHq-C0u_7rYv3zHBasQ", "token_chunks": [[0, 1, 2, 3, 4, 5, 6], [7, 8, 9, 10, 11], [12]], "labels": {"gpt-4o": [1, -1, 1], "gpt-4.1": [1, -1, 1]}}
+{"generation_id": "kwIfqSmlcNSdrnlLZdolvw", "token_chunks": [[0, 1, 2, 3, 4, 5, 6], [7]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "TWluMuPWnqxunila5NJ6yw", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "BrbGSOuUiuOqDHuq3ZEX3A", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "D50ONPoDGazc_FLJPZC1HQ", "token_chunks": [[0, 1, 2, 3], [4, 5, 6], [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17], [18]], "labels": {"gpt-4o": [1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1]}}
+{"generation_id": "HrNRfeODGefSfEI2bd1mTg", "token_chunks": [[0, 1, 2], [3, 4], [5, 6, 7, 8, 9], [10, 11, 12, 13], [14]], "labels": {"gpt-4o": [1, 1, -1, -1, 1], "gpt-4.1": [1, 1, -1, -1, 1]}}
+{"generation_id": "3CPfdSJbY7S8QhDUg4oTxQ", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8], [9, 10], [11, 12, 13], [14, 15, 16, 17, 18, 19, 20, 21, 22, 23], [24, 25, 26], [27]], "labels": {"gpt-4o": [-1, -1, -1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, -1, -1, 1]}}
+{"generation_id": "82bfhbNovfmg5_RpQK9pwg", "token_chunks": [[0, 1, 2, 3, 4, 5, 6], [7]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "RgrY1-ODKL7xobaYKXP_kw", "token_chunks": [[0, 1, 2], [3, 4, 5], [6, 7, 8, 9], [10, 11, 12], [13]], "labels": {"gpt-4o": [1, 1, -1, -1, 1], "gpt-4.1": [1, 1, -1, -1, 1]}}
+{"generation_id": "vb7pppdGqxQmc6qWd2JVtg", "token_chunks": [[0, 1], [2, 3, 4, 5, 6, 7, 8, 9, 10], [11, 12, 13, 14, 15, 16, 17], [18]], "labels": {"gpt-4o": [1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1]}}
+{"generation_id": "KtbkiEQRG6tTF-zr-5U_IA", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "tYTL7g3tg1z22w_0PZka8g", "token_chunks": [[0, 1, 2], [3, 4, 5], [6, 7], [8, 9, 10, 11], [12, 13, 14], [15, 16, 17, 18, 19, 20, 21, 22, 23, 24], [25]], "labels": {"gpt-4o": [1, 1, 1, -1, -1, -1, 1], "gpt-4.1": [1, 1, 1, -1, -1, -1, 1]}}
+{"generation_id": "RO76mJQqeczEbR2aOIJOqg", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "Sq2yjin6xHitIZclMdqLsw", "token_chunks": [[0, 1, 2], [3, 4, 5, 6, 7], [8, 9, 10, 11], [12, 13, 14, 15, 16, 17, 18, 19], [20, 21, 22, 23, 24], [25, 26, 27, 28, 29, 30, 31, 32], [33]], "labels": {"gpt-4o": [1, -1, -1, -1, -1, 1, 1], "gpt-4.1": [1, -1, -1, -1, -1, 1, 1]}}
+{"generation_id": "4A--fZt-AcdSh-Nc-lCjzA", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "_Z5OjzcovqD7KDMpCJkimQ", "token_chunks": [[0, 1, 2, 3], [4, 5, 6], [7, 8, 9], [10, 11, 12, 13, 14, 15, 16, 17, 18, 19], [20]], "labels": {"gpt-4o": [1, -1, 1, -1, 1], "gpt-4.1": [1, -1, 1, -1, 1]}}
+{"generation_id": "8EEg739Y60_F7FM1_owN6Q", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "aP07sGsmvRvQtMRnwwTXXQ", "token_chunks": [[0, 1, 2, 3, 4, 5], [6, 7, 8], [9, 10], [11, 12, 13, 14], [15, 16], [17, 18, 19, 20, 21, 22], [23, 24, 25, 26, 27, 28, 29, 30], [31]], "labels": {"gpt-4o": [1, 1, 1, -1, -1, -1, 1, 1], "gpt-4.1": [1, 1, 1, -1, -1, -1, 1, 1]}}
+{"generation_id": "uvkxcARSif0mWB7RU4SNVQ", "token_chunks": [[0, 1], [2, 3, 4, 5, 6, 7], [8, 9, 10], [11, 12, 13], [14]], "labels": {"gpt-4o": [-1, -1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, -1, 1]}}
+{"generation_id": "rA0rjDu2UwlBwvczJ8MEEw", "token_chunks": [[0, 1, 2], [3, 4, 5], [6, 7, 8, 9, 10, 11, 12], [13]], "labels": {"gpt-4o": [1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1]}}
+{"generation_id": "SEsg7AffRUnh5gGHP0uKUQ", "token_chunks": [[0, 1, 2, 3], [4, 5, 6, 7], [8, 9, 10, 11, 12, 13, 14], [15]], "labels": {"gpt-4o": [1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1]}}
+{"generation_id": "BkGJ0oHt4bx2lyhytd8GTA", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "Vhf81Me-NlZJUJy0FXggIw", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "HMcf2Yynojk4HyOuZgntiw", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "EOdk8nmP1ufiNYaan0fezw", "token_chunks": [[0, 1, 2, 3, 4, 5, 6], [7, 8, 9, 10, 11], [12]], "labels": {"gpt-4o": [-1, 1, 1], "gpt-4.1": [-1, 1, 1]}}
+{"generation_id": "Lum1XDiA9wV5UWC_RKVWYQ", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "vSEB1bBLnHcsBfgsTDZQjw", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "yZs4b7nuH1NLp85fLF53FA", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "BBsH83rmFxjy4J72Hs-dow", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "vY-GcePcd_pIspKokLCWWg", "token_chunks": [[0], [1, 2, 3, 4, 5], [6, 7, 8, 9, 10, 11, 12], [13]], "labels": {"gpt-4o": [-1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, 1]}}
+{"generation_id": "SMjvOVmt3n7y3yijTDY7uw", "token_chunks": [[0, 1, 2, 3, 4], [5, 6], [7, 8, 9], [10]], "labels": {"gpt-4o": [1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1]}}
+{"generation_id": "K_xq7J7Olj3wiUnHJIhlnw", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8, 9], [10]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "grz0vWRyznGLRBgenTXVGA", "token_chunks": [[0, 1], [2, 3, 4, 5, 6], [7, 8, 9, 10, 11, 12], [13]], "labels": {"gpt-4o": [1, -1, -1, 1], "gpt-4.1": [1, -1, -1, 1]}}
+{"generation_id": "JFLR_kPKkNNd4fZ2B7c0aw", "token_chunks": [[0, 1], [2, 3, 4], [5, 6, 7, 8, 9], [10]], "labels": {"gpt-4o": [1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1]}}
+{"generation_id": "Yy0yqkpLAhRBdCY5jiduwA", "token_chunks": [[0, 1, 2, 3, 4, 5], [6, 7, 8, 9, 10], [11]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "CHjP6G4Sy5NRr8I4tL0tyg", "token_chunks": [[0, 1, 2, 3, 4, 5, 6], [7, 8], [9, 10, 11, 12], [13, 14], [15, 16, 17, 18], [19, 20, 21, 22, 23, 24], [25, 26, 27, 28, 29, 30, 31], [32]], "labels": {"gpt-4o": [-1, -1, -1, -1, -1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, -1, -1, -1, -1, 1]}}
+{"generation_id": "tfgjf3OZI4seEfxuVIR1UA", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "nQAmYF5P0NQllnXTzOfLiw", "token_chunks": [[0, 1, 2, 3], [4, 5, 6, 7, 8], [9, 10], [11, 12, 13, 14, 15, 16], [17, 18, 19, 20, 21], [22, 23, 24], [25, 26, 27], [28, 29, 30], [31, 32, 33, 34, 35, 36, 37, 38], [39]], "labels": {"gpt-4o": [-1, -1, -1, -1, -1, -1, -1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, -1, -1, -1, -1, -1, -1, 1]}}
+{"generation_id": "W5Ksv9oFZQ-Y0HhN8wcRog", "token_chunks": [[0, 1, 2, 3], [4, 5, 6, 7, 8, 9], [10]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "5dLbcLIApN1GLHSaO_evFg", "token_chunks": [[0, 1], [2, 3, 4], [5]], "labels": {"gpt-4o": [1, 1, 1], "gpt-4.1": [1, 1, 1]}}
+{"generation_id": "EV_ce39j7pcm9tBlAVlqlg", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "a-sVpqRXLIO8OYdXYvBbnQ", "token_chunks": [[0, 1, 2, 3], [4, 5, 6, 7], [8, 9], [10, 11, 12], [13, 14, 15, 16], [17, 18], [19, 20, 21, 22, 23], [24, 25, 26, 27], [28, 29, 30], [31]], "labels": {"gpt-4o": [1, 1, 1, 1, -1, 1, 1, 1, -1, 1], "gpt-4.1": [1, 1, 1, 1, -1, 1, 1, 1, -1, 1]}}
+{"generation_id": "OlLqTl0dyd5vwsnp-ugChA", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "rwb_gt6QnF_r81qgnYPDkA", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "1Zbn_SFgNeRen0yExvcB8g", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "KqzySzcS3NecQRrNW1edlA", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "a8tNaB18NKCVTc1eWa2Sxg", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "F0nj2oV63U2ycohfDFsRCA", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7], [8]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "r7AtCYD2qX9TUHCyt-_QlA", "token_chunks": [[0, 1, 2, 3, 4, 5], [6, 7, 8, 9, 10, 11, 12], [13, 14, 15, 16, 17, 18], [19]], "labels": {"gpt-4o": [1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1]}}
+{"generation_id": "2ASI31qvB-qIro8I70gmpQ", "token_chunks": [[0, 1], [2, 3, 4, 5], [6, 7, 8, 9, 10], [11, 12, 13, 14], [15]], "labels": {"gpt-4o": [1, 1, -1, -1, 1], "gpt-4.1": [1, 1, -1, -1, 1]}}
+{"generation_id": "sZP2U_4SN7qJcTtc9jPMdQ", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "5bY1XiGm2PcNTnOD0oFr1g", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "kNl-8QtFwDUBm5UFja4d3Q", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7], [8, 9, 10, 11, 12, 13, 14, 15], [16]], "labels": {"gpt-4o": [1, -1, 1], "gpt-4.1": [1, -1, 1]}}
+{"generation_id": "hK1Y3yk_lYvXfD25U92fSw", "token_chunks": [[0, 1, 2, 3, 4], [5, 6, 7, 8, 9], [10]], "labels": {"gpt-4o": [1, 1, 1], "gpt-4.1": [1, 1, 1]}}
+{"generation_id": "3MF9pKzujtfOmntfqP2ASg", "token_chunks": [[0, 1], [2, 3, 4, 5, 6], [7]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "-MqPpJdZT8aF9Jr8CYrO-w", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "l-2LGJVT1PAmw0q_3B1v5A", "token_chunks": [[0, 1, 2], [3, 4], [5, 6, 7], [8]], "labels": {"gpt-4o": [1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1]}}
+{"generation_id": "V05J7Ds7AHhh8TPJYNf0rg", "token_chunks": [[0, 1, 2, 3, 4, 5], [6]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "TZEztK8p101VMm_S8fealw", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "xNZ6trGt8RiF4r2kEgQ7ug", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "CbFg3n79CeuAVMS0ALmMCw", "token_chunks": [[0, 1, 2], [3, 4], [5, 6, 7, 8], [9, 10, 11, 12], [13]], "labels": {"gpt-4o": [1, 1, 1, -1, 1], "gpt-4.1": [1, 1, 1, -1, 1]}}
+{"generation_id": "B1Mk1BfVcYNTKyBhlurOXA", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "3uLQE271Djh7kgRQ-niXDw", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8, 9], [10]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "cBZKXs5KTHCi7dXOkuBO3g", "token_chunks": [[0, 1, 2, 3, 4, 5, 6], [7]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "PaAy3V67ATjC0MrHCWbYZw", "token_chunks": [[0, 1, 2, 3], [4, 5, 6, 7], [8, 9], [10, 11, 12, 13], [14]], "labels": {"gpt-4o": [1, 1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1, 1]}}
+{"generation_id": "2KUfWhO4eXT-Eh0PgKIcmA", "token_chunks": [[0, 1, 2, 3, 4, 5, 6], [7, 8], [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], [21]], "labels": {"gpt-4o": [1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1]}}
+{"generation_id": "mwg67KmTCV50-IB6ff7SWQ", "token_chunks": [[0, 1, 2, 3, 4, 5, 6], [7]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "dRnVaZ2DvBextVdbMU2FvQ", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8, 9], [10]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "Hz-ObvqcNBH9kgBEakSlkw", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "SvH38JWa6B21hvg3s2EKvw", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "Ban4SWo6ruh7W3dv4iKz0A", "token_chunks": [[0, 1, 2], [3, 4, 5], [6]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "g7TRNrbcQ4hlVAjGHKGAAw", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "fdNPwE3CsXExsi6DRC7GZw", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7], [8, 9, 10], [11, 12, 13, 14, 15, 16, 17], [18]], "labels": {"gpt-4o": [-1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, 1]}}
+{"generation_id": "EX4m8fwHGG5TincTYpHa0A", "token_chunks": [[0, 1], [2, 3, 4, 5, 6], [7]], "labels": {"gpt-4o": [1, 1, 1], "gpt-4.1": [1, 1, 1]}}
+{"generation_id": "wgf1Mze1MIbVuzyZ25iF-g", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "tqX71Ki7MbEOrsSTScErig", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "Yh52e8YLcq7iglvcygJEeA", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "mrezm7LHJ6LUbg4xPnsjnw", "token_chunks": [[0, 1, 2, 3, 4, 5], [6]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "vffoxB793iXo0wf3X7RKxw", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "L_Eg3eQqm9Ak_CbPF-_3mQ", "token_chunks": [[0, 1, 2, 3, 4, 5], [6]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "12pAlRsr5L7xOua1cGNa7A", "token_chunks": [[0, 1, 2, 3, 4, 5], [6, 7, 8, 9, 10, 11, 12], [13, 14, 15, 16, 17, 18], [19]], "labels": {"gpt-4o": [1, -1, 1, 1], "gpt-4.1": [1, -1, 1, 1]}}
+{"generation_id": "CqbsOCUvnbjwEP0jDUKVcg", "token_chunks": [[0, 1], [2, 3, 4], [5, 6], [7, 8, 9], [10, 11, 12, 13], [14, 15, 16], [17]], "labels": {"gpt-4o": [1, -1, -1, -1, -1, -1, 1], "gpt-4.1": [1, -1, -1, -1, -1, -1, 1]}}
+{"generation_id": "ubVGFGuC184RfT4ndgWTxg", "token_chunks": [[0, 1, 2, 3, 4, 5], [6]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "ga0E28D33QxvVuwJcf8yjw", "token_chunks": [[0, 1], [2, 3], [4, 5, 6, 7, 8, 9], [10, 11, 12, 13], [14]], "labels": {"gpt-4o": [-1, -1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, -1, 1]}}
+{"generation_id": "GYhfkwWwOYj8imWxubTNlw", "token_chunks": [[0, 1, 2, 3, 4, 5], [6]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "CXA3fsf0FUW_xQgUi1gQFA", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "aQ3Mn2RJj7GcDGLMzsvsGA", "token_chunks": [[0, 1], [2, 3], [4, 5, 6, 7, 8, 9, 10], [11, 12, 13, 14, 15, 16], [17, 18, 19, 20, 21, 22, 23], [24]], "labels": {"gpt-4o": [1, 1, -1, -1, -1, 1], "gpt-4.1": [1, 1, -1, -1, -1, 1]}}
+{"generation_id": "z7tTsXQQ1c6U4qoeco8QBg", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "rYMoTlkycruAHGQTiQnG2A", "token_chunks": [[0], [1, 2, 3, 4], [5]], "labels": {"gpt-4o": [1, 1, 1], "gpt-4.1": [1, 1, 1]}}
+{"generation_id": "VepaoatWkw6QuCIJSJ83vQ", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "aTCLJNfpzkQgh4xdavDyEw", "token_chunks": [[0, 1], [2, 3, 4, 5], [6]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "TqnRG4LIDarPpl9BpUsc4w", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "icFnysUEsCPjpG1xT4B0Xg", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "yDQmGP7UutHEORjIcjPwWA", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "WXwoKIwySE3Y-370kYyAgw", "token_chunks": [[0, 1], [2, 3, 4, 5], [6, 7, 8], [9]], "labels": {"gpt-4o": [1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1]}}
+{"generation_id": "m-R8zFMFgGRREd2dmqy7nA", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "NsJd_yfPBXhAk4_giP3Qow", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "Fv68MJ2zR-DJDo6yiDY1sQ", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "PPxNKCkwhYycZS3tYskfuQ", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10], [11, 12, 13, 14, 15], [16, 17, 18, 19, 20, 21], [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32], [33]], "labels": {"gpt-4o": [-1, 1, 1, 1, 1], "gpt-4.1": [-1, 1, 1, 1, 1]}}
+{"generation_id": "loxOtz4dZufISyvDidiROg", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "d6aq2Rvy4fOD3Vm39NqmdQ", "token_chunks": [[0, 1], [2, 3], [4, 5, 6], [7, 8, 9, 10, 11], [12]], "labels": {"gpt-4o": [1, 1, -1, 1, 1], "gpt-4.1": [1, 1, -1, 1, 1]}}
+{"generation_id": "Rosf5p_xEXBkPm3WXw_YGw", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "D18y39W3TrIE4XEeyXh1YQ", "token_chunks": [[0, 1, 2, 3], [4, 5, 6], [7, 8, 9], [10, 11], [12, 13, 14], [15, 16, 17, 18, 19, 20, 21], [22, 23, 24, 25, 26, 27, 28, 29, 30, 31], [32, 33, 34, 35], [36, 37, 38], [39, 40, 41, 42, 43], [44]], "labels": {"gpt-4o": [1, 1, 1, -1, -1, -1, -1, -1, -1, -1, 1], "gpt-4.1": [1, 1, 1, -1, -1, -1, -1, -1, -1, -1, 1]}}
+{"generation_id": "aL_k5T547n3HjZvMKHJWoQ", "token_chunks": [[0, 1, 2, 3, 4], [5, 6, 7, 8, 9], [10]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "ndXM41BstU-tCn610CbrWg", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "SCKAGKCNzOxvs-Ns_BSI_w", "token_chunks": [[0, 1, 2], [3, 4, 5, 6, 7, 8, 9], [10, 11, 12, 13, 14, 15], [16, 17, 18], [19, 20, 21], [22]], "labels": {"gpt-4o": [-1, -1, -1, 1, 1, 1], "gpt-4.1": [-1, -1, -1, 1, 1, 1]}}
+{"generation_id": "XbFPOm4sDLw1VyNgLBdAlw", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "51IH5rbYTe1I1F51GryppQ", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "FjVseR9vyrqpXvsk1al_5g", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "ZBbHHLn3VLPQuVHCc7m7EA", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "jrKOvl8AVDecrnYV5XTG7Q", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "55GGgCmPu_a7nxNVKK9xDQ", "token_chunks": [[0, 1, 2, 3, 4], [5, 6, 7, 8, 9, 10, 11], [12, 13, 14, 15, 16, 17, 18], [19, 20, 21, 22], [23, 24, 25], [26]], "labels": {"gpt-4o": [-1, -1, 1, 1, 1, 1], "gpt-4.1": [-1, -1, 1, 1, 1, 1]}}
+{"generation_id": "N1M7O-k84cDzjWWRRyLzBA", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "EjDM23Ug6mA_6VJEUSxHtw", "token_chunks": [[0, 1, 2, 3, 4], [5, 6], [7, 8, 9, 10, 11], [12, 13], [14, 15, 16], [17, 18], [19, 20, 21, 22], [23, 24, 25], [26, 27, 28], [29, 30, 31], [32, 33, 34], [35, 36], [37, 38, 39, 40, 41, 42], [43]], "labels": {"gpt-4o": [1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1], "gpt-4.1": [1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1]}}
+{"generation_id": "oKxfrJ6CXIw9VO1HBnI7UQ", "token_chunks": [[0, 1, 2, 3, 4, 5], [6, 7, 8, 9, 10, 11, 12], [13]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "RjSICMYQRA3P03VFRSY_KA", "token_chunks": [[0, 1, 2, 3, 4], [5, 6, 7, 8, 9, 10, 11, 12, 13], [14]], "labels": {"gpt-4o": [1, -1, 1], "gpt-4.1": [1, -1, 1]}}
+{"generation_id": "C4vK6DZ_vZY0mQg8nzVJsA", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "kAj4RXwlDfAbSkbkmCh1-g", "token_chunks": [[0, 1, 2], [3, 4, 5, 6], [7, 8, 9, 10], [11, 12, 13, 14, 15, 16, 17], [18]], "labels": {"gpt-4o": [1, 1, -1, -1, 1], "gpt-4.1": [1, 1, -1, -1, 1]}}
+{"generation_id": "xIrYLMUh_dKSGpVSgWAZWQ", "token_chunks": [[0, 1], [2, 3, 4], [5]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "GD7KHPnP2Ljvvb0cvmIkMA", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "D61B_mXIEKmGwQmooDbQRw", "token_chunks": [[0, 1, 2, 3, 4], [5, 6], [7, 8, 9, 10, 11], [12, 13, 14, 15, 16, 17], [18]], "labels": {"gpt-4o": [1, 1, 1, -1, 1], "gpt-4.1": [1, 1, 1, -1, 1]}}
+{"generation_id": "bLCuX7AyY0o3-4MXP11nWw", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7], [8, 9, 10, 11, 12, 13], [14, 15, 16, 17, 18, 19], [20]], "labels": {"gpt-4o": [1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1]}}
+{"generation_id": "H5k19chRoeq30chlR5B3tQ", "token_chunks": [[0, 1, 2, 3, 4, 5], [6, 7, 8, 9, 10], [11]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "hn0P9-UdCHK-QUIMLFMcFA", "token_chunks": [[0, 1, 2, 3, 4], [5, 6], [7, 8, 9], [10, 11, 12, 13, 14, 15], [16]], "labels": {"gpt-4o": [1, 1, 1, -1, 1], "gpt-4.1": [1, 1, 1, -1, 1]}}
+{"generation_id": "A0RQL4VrwNVZ1O00Z_plqg", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "5bbxrzJVH9_zaGMnmO1Tfw", "token_chunks": [[0, 1, 2, 3, 4, 5], [6]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "2IHa2HSR6eCxcroPnI5X9Q", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "_deDugCH2nlKV7fn_Ne10Q", "token_chunks": [[0, 1, 2], [3, 4, 5, 6, 7, 8], [9, 10, 11, 12], [13, 14, 15, 16], [17]], "labels": {"gpt-4o": [1, 1, -1, -1, 1], "gpt-4.1": [1, 1, -1, -1, 1]}}
+{"generation_id": "nJKFNCFkegPQPqjHxi6o9g", "token_chunks": [[0, 1], [2, 3], [4, 5, 6, 7, 8], [9, 10], [11, 12, 13], [14]], "labels": {"gpt-4o": [1, 1, 1, -1, -1, 1], "gpt-4.1": [1, 1, 1, -1, -1, 1]}}
+{"generation_id": "Zsu4Z0YlpI-vKTZcVLjEXg", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "IOnwUCT0NQ9Sd2wcdyqXOA", "token_chunks": [[0, 1, 2, 3, 4], [5, 6, 7, 8, 9], [10, 11, 12, 13, 14, 15, 16], [17, 18, 19, 20, 21], [22, 23, 24, 25, 26, 27, 28, 29, 30], [31]], "labels": {"gpt-4o": [1, 1, -1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1, -1, 1]}}
+{"generation_id": "5Q1pxBChdgBxBer4bevWsw", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "e00H9ETSNBuD_y95b0jhQA", "token_chunks": [[0, 1, 2, 3, 4, 5], [6, 7, 8], [9, 10, 11], [12, 13, 14, 15, 16, 17, 18], [19, 20, 21, 22, 23], [24, 25, 26, 27, 28], [29, 30, 31, 32], [33, 34], [35, 36, 37, 38, 39], [40, 41, 42], [43]], "labels": {"gpt-4o": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}}
+{"generation_id": "-CJG_MNhJ8EMvSlvZvPfog", "token_chunks": [[0, 1, 2, 3, 4, 5], [6]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "F3_47w_X4ZE2nucwWu5pKA", "token_chunks": [[0, 1, 2, 3], [4, 5, 6, 7, 8, 9, 10], [11]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "pMYAPayjk4h_smvQxli9eA", "token_chunks": [[0, 1], [2, 3], [4, 5, 6], [7, 8, 9, 10], [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22], [23, 24, 25, 26, 27], [28]], "labels": {"gpt-4o": [1, 1, 1, 1, -1, -1, 1], "gpt-4.1": [1, 1, 1, 1, -1, -1, 1]}}
+{"generation_id": "_AhQzSk91Cm9JikqBWI4Xw", "token_chunks": [[0, 1, 2], [3, 4, 5, 6, 7, 8, 9, 10, 11, 12], [13]], "labels": {"gpt-4o": [1, -1, 1], "gpt-4.1": [1, -1, 1]}}
+{"generation_id": "fy7pHumdtwFIUnvgY-XOsA", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "Mbsv6OpukR9FLFyWiSqXfg", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "pPCAWX-cbh8lB5nKCGiHVQ", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "25e0HmV79LwRPKXgxckTyg", "token_chunks": [[0, 1, 2, 3, 4, 5, 6], [7]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "xchHXk0VeeE_Eynjt7vCMQ", "token_chunks": [[0, 1, 2, 3, 4, 5, 6], [7]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "b-SLJO2wf8Sjw5z0UBGRvw", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "tfADFKJ6gEcwQ0z1WkpyYQ", "token_chunks": [[0, 1, 2, 3], [4, 5, 6, 7, 8, 9], [10, 11, 12], [13, 14, 15, 16], [17]], "labels": {"gpt-4o": [1, -1, 1, 1, 1], "gpt-4.1": [1, -1, 1, 1, 1]}}
+{"generation_id": "8CkWUYYdhzcxtOpHptdv1A", "token_chunks": [[0, 1], [2, 3, 4, 5], [6, 7, 8], [9, 10], [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], [24]], "labels": {"gpt-4o": [1, 1, 1, 1, -1, 1], "gpt-4.1": [1, 1, 1, 1, -1, 1]}}
+{"generation_id": "6Up6tyt5P0vLEMLAvFg-gA", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "2GQADhNrgZjSJ6EJxy095w", "token_chunks": [[0, 1, 2, 3, 4, 5, 6], [7]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "NGqYQZWqKhXM6AdJJ2E4tA", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "L1Xk9X0uu8uIdoM-zKORig", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "wLTN71Sfbd6FncTRc91bHQ", "token_chunks": [[0, 1, 2, 3, 4], [5, 6, 7], [8]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "MMMXkeIy3XxcjCz1GmJ4Rw", "token_chunks": [[0, 1, 2, 3], [4, 5, 6, 7, 8], [9, 10, 11, 12, 13, 14, 15, 16, 17, 18], [19]], "labels": {"gpt-4o": [1, -1, 1, 1], "gpt-4.1": [1, -1, 1, 1]}}
+{"generation_id": "kVHz6IVmIApdMxVTP6hQrA", "token_chunks": [[0, 1, 2, 3, 4, 5], [6, 7, 8, 9, 10, 11], [12, 13], [14, 15, 16, 17, 18], [19, 20, 21, 22, 23], [24, 25, 26, 27, 28, 29], [30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44], [45, 46, 47], [48, 49, 50, 51, 52], [53, 54, 55, 56], [57, 58, 59, 60, 61, 62], [63]], "labels": {"gpt-4o": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}}
+{"generation_id": "ZmYw6_YUOXnH4eJzHnHSCg", "token_chunks": [[0, 1, 2, 3, 4], [5, 6, 7, 8, 9], [10, 11, 12, 13, 14, 15, 16], [17]], "labels": {"gpt-4o": [1, -1, -1, 1], "gpt-4.1": [1, -1, -1, 1]}}
+{"generation_id": "0Q35fyp5bcQbf0efw1aamQ", "token_chunks": [[0, 1, 2], [3, 4, 5, 6], [7]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "tBn6--X77Y3Cn5G2mF_jVQ", "token_chunks": [[0, 1, 2, 3, 4, 5], [6]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "W4Xlv1TTeLbBQW1PMz_2zA", "token_chunks": [[0, 1, 2], [3, 4, 5, 6, 7, 8], [9]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "UsYL0UkAhFVSUwmilN3qow", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], [15, 16, 17, 18, 19, 20, 21], [22]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "YiRz5mbx_x4zR5ueYaxVFg", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "oXN0N4xLbdYzcHZGnCw3jw", "token_chunks": [[0, 1, 2], [3, 4, 5, 6], [7]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "wzGUl8cq3uwhs3zuo3Pacw", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8], [9]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "3r0UWpptPkb6ksQKpbQVdg", "token_chunks": [[0, 1, 2, 3, 4, 5], [6, 7, 8], [9, 10, 11], [12]], "labels": {"gpt-4o": [1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1]}}
+{"generation_id": "njjvNaOuTGTFBAV1RQ7-kA", "token_chunks": [[0, 1, 2, 3], [4, 5, 6], [7, 8, 9], [10, 11, 12, 13], [14, 15], [16, 17, 18, 19, 20], [21, 22, 23, 24, 25], [26, 27, 28, 29, 30, 31, 32], [33]], "labels": {"gpt-4o": [1, 1, 1, 1, 1, 1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1, 1, 1, 1, 1, 1]}}
+{"generation_id": "qFWqViD9dIC6hXlWFWqGLA", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "2jb31H8C66mD82P6jtLRwQ", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16], [17]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "8U0roiSg1_DyR3uzrwnjtQ", "token_chunks": [[0, 1], [2, 3, 4, 5], [6, 7], [8, 9], [10, 11, 12], [13]], "labels": {"gpt-4o": [1, 1, 1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1, 1, 1]}}
+{"generation_id": "Gm2RdZhG1-2BIwiPyZMOdA", "token_chunks": [[0, 1, 2, 3, 4, 5, 6], [7, 8, 9, 10, 11], [12]], "labels": {"gpt-4o": [1, -1, 1], "gpt-4.1": [1, -1, 1]}}
+{"generation_id": "ZxtEB78kBkz3vp18CKGY5g", "token_chunks": [[0, 1], [2, 3, 4], [5, 6, 7, 8, 9], [10, 11, 12], [13, 14, 15], [16, 17, 18], [19, 20], [21, 22, 23], [24, 25, 26], [27, 28, 29], [30, 31, 32, 33, 34], [35]], "labels": {"gpt-4o": [1, 1, 1, 1, 1, -1, -1, -1, -1, -1, -1, 1], "gpt-4.1": [1, 1, 1, 1, 1, -1, -1, -1, -1, -1, -1, 1]}}
+{"generation_id": "auKJpT_eS7k4a1zWi7sTYw", "token_chunks": [[0, 1], [2, 3, 4, 5], [6, 7, 8, 9], [10]], "labels": {"gpt-4o": [1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1]}}
+{"generation_id": "Zx4dbH0cVJ_G8j9O87NFdg", "token_chunks": [[0, 1], [2, 3, 4, 5, 6, 7, 8, 9, 10], [11]], "labels": {"gpt-4o": [1, -1, 1], "gpt-4.1": [1, -1, 1]}}
+{"generation_id": "jjfejr8JhueYnZdMESfzdQ", "token_chunks": [[0, 1, 2, 3, 4, 5], [6]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "U8E5d8Z-f6K4wUbwV_SyIw", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "z7MuZaBA7LUWWR7EXMwTag", "token_chunks": [[0, 1, 2, 3, 4, 5, 6], [7]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "OORvNfjHSy6Z5rbYe9BRsg", "token_chunks": [[0, 1], [2, 3], [4, 5], [6, 7, 8], [9, 10, 11, 12, 13, 14, 15, 16], [17]], "labels": {"gpt-4o": [-1, -1, -1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, -1, -1, 1]}}
+{"generation_id": "duUrsrqi_c1fbsSWwAQuCw", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "l5UIAPv_8mUXXaXEcT76Iw", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "Xpn4M2wEJ467oV4Pg4iOLg", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "Nuj_X5xIq2qpuRr40m8HvQ", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "3zeY2ft2_YV9XETLbc_39g", "token_chunks": [[0, 1], [2, 3, 4, 5, 6], [7, 8, 9, 10, 11, 12, 13, 14], [15]], "labels": {"gpt-4o": [1, -1, 1, 1], "gpt-4.1": [1, -1, 1, 1]}}
+{"generation_id": "bPsYLCD05grGmNWuTSzL7w", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "HqAb8nXmgL9msZLaMXUbEg", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "GkvjZgWbZxPzq4AvA3_asw", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7], [8]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "g29pZ5tjNfBeWQrQ3P9dHA", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8, 9], [10, 11, 12, 13, 14], [15]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "l2e6Bdb8T0vYzv37tX3Nsw", "token_chunks": [[0, 1], [2, 3, 4], [5, 6], [7, 8], [9, 10, 11], [12, 13, 14], [15, 16, 17, 18], [19]], "labels": {"gpt-4o": [1, 1, 1, 1, 1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1, 1, 1, 1, 1]}}
+{"generation_id": "mzsvYiv0nIkk4EU-IZlhMQ", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "XZ2bcJ7h1-96HC2yFCRnGQ", "token_chunks": [[0, 1], [2, 3, 4, 5], [6, 7, 8, 9], [10, 11, 12], [13, 14, 15], [16, 17, 18], [19, 20], [21, 22, 23], [24, 25, 26, 27], [28]], "labels": {"gpt-4o": [-1, -1, -1, -1, -1, -1, -1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, -1, -1, -1, -1, -1, -1, 1]}}
+{"generation_id": "rri2oowKidO2oF1bwXVB5Q", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "LxU4oNb1-1nYDVb2CbJoDw", "token_chunks": [[0, 1, 2, 3, 4, 5], [6, 7, 8, 9, 10, 11, 12, 13], [14, 15, 16, 17, 18, 19], [20]], "labels": {"gpt-4o": [1, -1, -1, 1], "gpt-4.1": [1, -1, -1, 1]}}
+{"generation_id": "ft1tJDdmsTIon7V2CRTRnA", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8], [9]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "0I0NA_InT2RzUwJWhgE11w", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "3I6gMkK4OVJL5T8QXGHYRQ", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "tUvXQqmAOtMIvLh4jOHQBw", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8], [9, 10, 11, 12, 13], [14, 15, 16, 17, 18], [19, 20, 21, 22, 23], [24, 25, 26, 27], [28, 29, 30], [31, 32, 33], [34]], "labels": {"gpt-4o": [1, -1, -1, -1, -1, 1, 1, 1], "gpt-4.1": [1, -1, -1, -1, -1, 1, 1, 1]}}
+{"generation_id": "7LOnjfG98xej97jqFkLB4A", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "5O1Zp0x4uk3GyqF0SSxcPA", "token_chunks": [[0, 1, 2, 3], [4, 5, 6, 7, 8, 9, 10, 11], [12]], "labels": {"gpt-4o": [1, 1, 1], "gpt-4.1": [1, 1, 1]}}
+{"generation_id": "SpDSmKardkfqKa2TLCl6pw", "token_chunks": [[0], [1, 2, 3], [4]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "mul3aJk_2gYRZACRoEyNcw", "token_chunks": [[0, 1], [2, 3, 4], [5, 6, 7], [8, 9, 10, 11, 12, 13, 14], [15]], "labels": {"gpt-4o": [1, 1, 1, -1, 1], "gpt-4.1": [1, 1, 1, -1, 1]}}
+{"generation_id": "Bi-AR08YS5OhXebVmv81Ig", "token_chunks": [[0, 1, 2, 3, 4, 5, 6], [7]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "GnWUNr5KQBa4FSR5ub4biA", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "uzoWazdLrwcrZlYl14nBOQ", "token_chunks": [[0, 1, 2], [3, 4], [5, 6, 7], [8, 9, 10, 11, 12, 13, 14, 15, 16], [17, 18, 19], [20, 21], [22, 23, 24, 25], [26, 27, 28, 29, 30, 31, 32], [33, 34, 35], [36, 37, 38, 39, 40], [41, 42, 43, 44, 45], [46, 47, 48], [49, 50, 51, 52], [53]], "labels": {"gpt-4o": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}}
+{"generation_id": "W_qv-pUS0YolgiC5XmTtOQ", "token_chunks": [[0], [1, 2, 3], [4, 5], [6, 7], [8, 9, 10, 11, 12], [13]], "labels": {"gpt-4o": [1, 1, 1, 1, -1, 1], "gpt-4.1": [1, 1, 1, 1, -1, 1]}}
+{"generation_id": "XuNvr0uaJQn0HrnMB4GdHA", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "x-i3FCLPtQPuS1tsPAin1g", "token_chunks": [[0, 1, 2], [3, 4, 5, 6, 7, 8, 9, 10], [11, 12, 13, 14, 15], [16, 17, 18, 19, 20], [21, 22, 23, 24, 25, 26], [27, 28, 29, 30, 31, 32, 33, 34], [35]], "labels": {"gpt-4o": [-1, -1, -1, -1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, -1, -1, -1, 1]}}
+{"generation_id": "sQFGs3QRHcp5LBv78qKdhQ", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "LVVpVTexh8P9QAb-btYCUg", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "dzjyjsKmWI6XYL4op4Sqvw", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7], [8]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "7hZC3vIxNDt6TQ-6cT9hjg", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "j-T4zf0GLw_Ei92ANJIF-g", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8], [9, 10, 11, 12, 13, 14], [15]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "b2_2KIV7_ou0WsGi94zKGw", "token_chunks": [[0, 1, 2, 3, 4, 5, 6], [7]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "9duiGxBf-XIFG4P7-6hovA", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "PsNRfj3Iu_aVzD7BnPcwSw", "token_chunks": [[0, 1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11], [12]], "labels": {"gpt-4o": [1, -1, -1, 1], "gpt-4.1": [1, -1, -1, 1]}}
+{"generation_id": "KbE_nmTV4WgtFgYWqY9VqA", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "dCTTV6qAynaxaeftZ6R6oA", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "jLudleLchQw8SsmqxcfJ4A", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "vGgZEO0g037YzYSA2j6zJw", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8, 9], [10]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "piWLaEYfQKkygywCb-zEjg", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "OWFRW8xiSW37SNy9L9jjpQ", "token_chunks": [[0, 1, 2, 3], [4, 5, 6, 7, 8, 9], [10, 11, 12], [13]], "labels": {"gpt-4o": [-1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, 1]}}
+{"generation_id": "1l2PqJBOCvQTKNKHdCrglA", "token_chunks": [[0, 1, 2, 3, 4], [5, 6], [7, 8, 9, 10, 11, 12], [13, 14, 15, 16, 17, 18, 19], [20]], "labels": {"gpt-4o": [1, 1, -1, -1, 1], "gpt-4.1": [1, 1, -1, -1, 1]}}
+{"generation_id": "MH4pyAxs_rmK0mfc8Wgl1A", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "UV79cEgbFm64A-5bwMSbRg", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "Fo0O-01OIo2QtHnVpKz3Eg", "token_chunks": [[0, 1, 2, 3], [4, 5], [6, 7, 8, 9, 10, 11, 12], [13]], "labels": {"gpt-4o": [1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1]}}
+{"generation_id": "8KILNew5Dmw7jYsunYtuKg", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "N4BVnjXm3U6JRtiMD4Mzfw", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "_5_j0u4d50dUJzvEfzRqcg", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "WgkF6NQlw9Sl2XVgC9DCRg", "token_chunks": [[0, 1], [2, 3, 4], [5, 6, 7, 8, 9, 10, 11, 12], [13]], "labels": {"gpt-4o": [-1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, 1]}}
+{"generation_id": "fLgQoR85K9zhEmp_eiySAA", "token_chunks": [[0, 1, 2, 3], [4, 5, 6, 7, 8, 9, 10], [11]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "HDFUTvCUZKozwSJSY3U31A", "token_chunks": [[0, 1, 2, 3, 4], [5, 6, 7, 8, 9, 10], [11, 12, 13, 14, 15, 16, 17], [18]], "labels": {"gpt-4o": [1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1]}}
+{"generation_id": "xipmrEmun0XMObU85WbZlg", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10], [11]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "wcTIHGCWa5gBjMsO1rWcnQ", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7], [8, 9], [10, 11, 12, 13, 14, 15, 16, 17, 18], [19, 20], [21, 22], [23, 24, 25, 26, 27, 28, 29], [30]], "labels": {"gpt-4o": [1, 1, 1, 1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1, 1, 1, 1]}}
+{"generation_id": "X4L7xnKORtePmtfaJJAAIA", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "CGGpH6432t552wlyCyVIJw", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "bFu9proRJ-45OxdWFvJyfw", "token_chunks": [[0, 1, 2, 3, 4, 5], [6]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "tJH2J8s4QBMf0VHuie9PPg", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "YvL1AWLDz4TLGkEW7c7lqw", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "UUL4IyL5rwaDE3la5lEzBQ", "token_chunks": [[0, 1, 2, 3, 4, 5], [6]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "13_VhX5u5WI6VoPd1GECLQ", "token_chunks": [[0, 1], [2, 3, 4, 5], [6]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "-s9mcpykUeqK0hA3Jcz4OA", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "0ooH_k2GZBxYs4T8FhHdwA", "token_chunks": [[0, 1, 2, 3, 4], [5, 6, 7, 8, 9, 10, 11, 12], [13]], "labels": {"gpt-4o": [1, -1, 1], "gpt-4.1": [1, -1, 1]}}
+{"generation_id": "oKrt36iIfLgoaEFzZgffvA", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "ljSd1evZN4swaeczGwJtMQ", "token_chunks": [[0, 1, 2, 3, 4, 5, 6], [7]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "xTcsV1nfHha_mbWGXV0G4g", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "poj_aMWgXS8bYYaWmcGi7Q", "token_chunks": [[0, 1, 2], [3, 4, 5], [6, 7, 8, 9, 10, 11, 12], [13]], "labels": {"gpt-4o": [1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1]}}
+{"generation_id": "Sj9kDGj0_sVi0Y33zLXDyg", "token_chunks": [[0, 1, 2], [3, 4, 5], [6, 7, 8], [9]], "labels": {"gpt-4o": [1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1]}}
+{"generation_id": "wloQc5uHJne2kUFieTFSPg", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "m3ViU-vodLu1WFsjz454gA", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "5XK_trAmySfnYPfWMhJiiw", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8], [9, 10, 11, 12, 13], [14]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "wizMZdk9h8BWxbIpF6BQOg", "token_chunks": [[0, 1, 2], [3, 4, 5, 6, 7], [8, 9, 10, 11], [12, 13, 14], [15, 16, 17, 18, 19], [20, 21, 22, 23, 24, 25], [26, 27, 28, 29, 30, 31, 32, 33, 34, 35], [36, 37, 38, 39], [40]], "labels": {"gpt-4o": [1, -1, 1, 1, -1, -1, -1, -1, 1], "gpt-4.1": [1, -1, 1, 1, -1, -1, -1, -1, 1]}}
+{"generation_id": "JP5thidW3Y_El6TQW6PTXg", "token_chunks": [[0, 1, 2], [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18], [19]], "labels": {"gpt-4o": [1, -1, 1], "gpt-4.1": [1, -1, 1]}}
+{"generation_id": "lHv8eky9DHDm0aWMXMhx8A", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "9-cjcEJi7-83wob5vW4GAA", "token_chunks": [[0, 1, 2, 3, 4], [5, 6, 7, 8, 9, 10], [11, 12, 13, 14, 15, 16, 17], [18]], "labels": {"gpt-4o": [-1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, 1]}}
+{"generation_id": "WQFD5UihZPFGv6ypTMY1UA", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8], [9, 10, 11, 12], [13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], [24]], "labels": {"gpt-4o": [1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1]}}
+{"generation_id": "eouxFPuXVHnoxAf9nuyi4A", "token_chunks": [[0, 1, 2, 3, 4, 5], [6]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "e9T4AIiYPGPVzkcQIOj5mQ", "token_chunks": [[0, 1], [2, 3, 4], [5, 6, 7], [8, 9, 10], [11]], "labels": {"gpt-4o": [1, 1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1, 1]}}
+{"generation_id": "HY8QfHs0ozod2O80x6NNrg", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7], [8]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "Svre1BI-D5EbKiBLT7iDZA", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "xbxp7IBDsVpUDHmZHdlPBQ", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "ajZYtZFuxSK_JHipbwFFEA", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "qi9R0bD1kXgmtf5CC35BaA", "token_chunks": [[0, 1, 2, 3, 4], [5, 6], [7, 8, 9, 10], [11]], "labels": {"gpt-4o": [1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1]}}
+{"generation_id": "ualgKJLcmcdj0dKlEvtL_g", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "Goz91ViWmjWqraE3c1N_8A", "token_chunks": [[0, 1, 2, 3, 4, 5, 6], [7, 8, 9, 10], [11]], "labels": {"gpt-4o": [1, -1, 1], "gpt-4.1": [1, -1, 1]}}
+{"generation_id": "evStLHDApbuP2Yw96Kxzkw", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "GMS21jE1ijiVTLyCxIEooQ", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "trY1jDITn8UO-n45Mqb-cA", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "AtWjTySrPKprJPEgk04Zcg", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "Vl6Xd2O9_oQ-LtOB-B0pHA", "token_chunks": [[0, 1, 2], [3, 4, 5], [6, 7, 8, 9], [10, 11], [12, 13, 14], [15, 16], [17, 18, 19, 20], [21]], "labels": {"gpt-4o": [-1, 1, 1, 1, 1, -1, -1, 1], "gpt-4.1": [-1, 1, 1, 1, 1, -1, -1, 1]}}
+{"generation_id": "3DhVASxuNtfOL1UbhRKCVw", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "w5CCzsEY847mRiMC3SDnsQ", "token_chunks": [[0, 1, 2, 3], [4, 5], [6, 7, 8, 9], [10, 11, 12, 13], [14, 15, 16, 17, 18, 19, 20, 21, 22], [23]], "labels": {"gpt-4o": [1, 1, 1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1, 1, 1]}}
+{"generation_id": "zgs5xR2ZYlFw-QsR1tP2Dg", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "QRFj4afGpt_XP1Pw2GogXA", "token_chunks": [[0, 1, 2, 3], [4, 5], [6, 7, 8], [9]], "labels": {"gpt-4o": [1, -1, -1, 1], "gpt-4.1": [1, -1, -1, 1]}}
+{"generation_id": "11v2IUzxNZQxL6G0khxW1g", "token_chunks": [[0, 1, 2, 3], [4, 5], [6, 7, 8, 9, 10, 11], [12]], "labels": {"gpt-4o": [1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1]}}
+{"generation_id": "bM7IIdBxtKgMT3wLpnYUDQ", "token_chunks": [[0, 1, 2, 3], [4, 5, 6, 7, 8, 9], [10]], "labels": {"gpt-4o": [1, -1, 1], "gpt-4.1": [1, -1, 1]}}
+{"generation_id": "3Sr-vTfR5--4vbEKm8I70A", "token_chunks": [[0, 1, 2, 3, 4, 5], [6, 7, 8, 9, 10, 11, 12], [13]], "labels": {"gpt-4o": [1, -1, 1], "gpt-4.1": [1, -1, 1]}}
+{"generation_id": "sXZZGhDxt4A6fWwwXKsIhw", "token_chunks": [[0, 1, 2, 3], [4, 5, 6, 7], [8, 9, 10, 11, 12], [13]], "labels": {"gpt-4o": [1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1]}}
+{"generation_id": "GgosEcT5BjAe-atNU5q5Kg", "token_chunks": [[0, 1, 2], [3, 4, 5], [6, 7, 8, 9, 10], [11, 12, 13], [14, 15, 16], [17, 18], [19, 20, 21], [22, 23], [24, 25, 26, 27], [28]], "labels": {"gpt-4o": [-1, -1, -1, -1, -1, -1, -1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, -1, -1, -1, -1, -1, -1, 1]}}
+{"generation_id": "s2BflNTxFSwe_Lmr98cReA", "token_chunks": [[0, 1, 2, 3], [4, 5, 6, 7], [8, 9, 10, 11, 12, 13, 14, 15, 16], [17, 18, 19, 20, 21], [22]], "labels": {"gpt-4o": [-1, -1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, -1, 1]}}
+{"generation_id": "yRCez0ZI1KBDHNQKtB4nOQ", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "OAnUf8qdLOtGTCcCozOXuw", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "SEoOjF4vPlRlEEDqcufoxw", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "41mTi0uMHnRaMe-Xy24ffg", "token_chunks": [[0, 1, 2], [3, 4, 5, 6], [7, 8, 9, 10, 11, 12], [13, 14, 15], [16, 17], [18, 19, 20, 21, 22, 23, 24, 25], [26, 27, 28, 29, 30], [31, 32], [33, 34, 35], [36]], "labels": {"gpt-4o": [-1, -1, -1, -1, -1, -1, -1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, -1, -1, -1, -1, -1, -1, 1]}}
+{"generation_id": "Kt27uDjABndL6Y2AGLHAcg", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "TJPROHVZBjLQ0TJKuPRQEg", "token_chunks": [[0, 1, 2, 3, 4], [5, 6, 7], [8, 9, 10, 11, 12], [13, 14, 15, 16, 17, 18, 19], [20]], "labels": {"gpt-4o": [1, 1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1, 1]}}
+{"generation_id": "j2yoRwzk4x0ki80vgGVFIA", "token_chunks": [[0, 1, 2, 3, 4, 5], [6]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "1yhqO1C2GgYgj7_JV1derQ", "token_chunks": [[0, 1, 2], [3, 4, 5], [6, 7, 8, 9, 10], [11]], "labels": {"gpt-4o": [-1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, 1]}}
+{"generation_id": "TnyomcbYiwJNpqOJravJDA", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8], [9, 10, 11], [12]], "labels": {"gpt-4o": [1, -1, 1], "gpt-4.1": [1, -1, 1]}}
+{"generation_id": "cVdnboI23B1qacGhVik07Q", "token_chunks": [[0, 1, 2, 3, 4, 5], [6]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "HwQqFEguKIdNoune9XTPew", "token_chunks": [[0, 1], [2, 3, 4], [5, 6, 7], [8]], "labels": {"gpt-4o": [1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1]}}
+{"generation_id": "xuow83qySY3VlzjkYDAM5A", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "vM032ZlQ58SoL9NooNA_ig", "token_chunks": [[0, 1, 2, 3, 4, 5], [6, 7, 8, 9], [10, 11, 12, 13, 14, 15, 16], [17]], "labels": {"gpt-4o": [-1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, 1]}}
+{"generation_id": "gpxcfaPGikk8mm6DflQ4lA", "token_chunks": [[0, 1, 2, 3, 4, 5], [6, 7], [8, 9, 10, 11, 12, 13, 14], [15]], "labels": {"gpt-4o": [1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1]}}
+{"generation_id": "q6rVVfucwVFqUsTtWHK3Lw", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "ZmdXCJEQzG1Dc6rtQP6yyw", "token_chunks": [[0, 1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12], [13]], "labels": {"gpt-4o": [1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1]}}
+{"generation_id": "V5TZE2u6dBEZkcGITUY6Xw", "token_chunks": [[0, 1, 2], [3, 4], [5, 6, 7, 8, 9], [10]], "labels": {"gpt-4o": [1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1]}}
+{"generation_id": "L3Zyv1rJWdTJ3zmtNZ_bHA", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "tnOGMwQ24S-Q3qNiETqTWw", "token_chunks": [[0, 1], [2, 3, 4, 5, 6, 7], [8]], "labels": {"gpt-4o": [1, 1, 1], "gpt-4.1": [1, 1, 1]}}
+{"generation_id": "f7BsMYb6THG8XgryDYAlOA", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "fjDllYH9ybzqGbYINYd8Lw", "token_chunks": [[0, 1, 2], [3, 4, 5, 6, 7], [8]], "labels": {"gpt-4o": [1, 1, 1], "gpt-4.1": [1, 1, 1]}}
+{"generation_id": "sZJIn31ncvEqFhwaMBvLxw", "token_chunks": [[0, 1, 2, 3], [4, 5, 6], [7]], "labels": {"gpt-4o": [1, 1, 1], "gpt-4.1": [1, 1, 1]}}
+{"generation_id": "rsHopi6rvzT72t_vFp9mLw", "token_chunks": [[0, 1, 2, 3], [4, 5, 6], [7, 8, 9, 10, 11, 12, 13, 14], [15, 16], [17, 18, 19, 20, 21, 22], [23, 24, 25], [26, 27], [28, 29, 30], [31]], "labels": {"gpt-4o": [1, 1, 1, 1, 1, 1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1, 1, 1, 1, 1, 1]}}
+{"generation_id": "uupkFTA02xWajZ7w3Z81eA", "token_chunks": [[0, 1], [2, 3], [4, 5, 6, 7, 8, 9, 10], [11, 12, 13, 14, 15, 16, 17], [18, 19, 20, 21], [22]], "labels": {"gpt-4o": [1, 1, 1, -1, -1, 1], "gpt-4.1": [1, 1, 1, -1, -1, 1]}}
+{"generation_id": "aj2IDN8E6NWEVZ8HxmAA2w", "token_chunks": [[0, 1], [2, 3, 4], [5, 6, 7, 8, 9], [10, 11, 12, 13, 14, 15, 16], [17]], "labels": {"gpt-4o": [1, 1, 1, -1, 1], "gpt-4.1": [1, 1, 1, -1, 1]}}
+{"generation_id": "s8CEMTqnBECD-MPde8kQsw", "token_chunks": [[0, 1], [2, 3], [4, 5, 6, 7, 8], [9]], "labels": {"gpt-4o": [-1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, 1]}}
+{"generation_id": "amhurKK1I3Qo4pd8Fp5-Cw", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "zVPa29coPnRxOxxS-BeX1w", "token_chunks": [[0, 1, 2, 3, 4, 5], [6]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "sue0qGwUtn55VyT9XNaW4g", "token_chunks": [[0, 1, 2, 3], [4, 5, 6, 7, 8, 9, 10], [11]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "O9TGqGV6gC1UBt1GKQFMqw", "token_chunks": [[0, 1], [2, 3, 4, 5, 6], [7]], "labels": {"gpt-4o": [1, 1, 1], "gpt-4.1": [1, 1, 1]}}
+{"generation_id": "spr9Wq1YCoLWw0y7qoOZ5w", "token_chunks": [[0, 1, 2, 3], [4, 5, 6, 7, 8, 9, 10], [11]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "mb0YJmkKdJ6eVyC6u1XFmw", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "rwuxsVlfmgpHwXaD04CLQA", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "CUgHm_9cxJXLmVl_wHcLvQ", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "Miy993ZrUeAPw1F0CnR7YQ", "token_chunks": [[0, 1, 2, 3], [4, 5, 6, 7, 8], [9, 10, 11, 12, 13, 14], [15]], "labels": {"gpt-4o": [1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1]}}
+{"generation_id": "5JDo5nO7r-2nXrSs6wrrfg", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "SapIDqmmfkvsY6xw4dZ1UQ", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "AMNljgRC72sqjX7f6Jw5iQ", "token_chunks": [[0, 1, 2, 3, 4, 5, 6], [7]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "Yc9_TqXLaEIdMcd8GCfyTA", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "bMQIIbA7JzpXdOkpONh4Tw", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8, 9], [10]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "Nij-5VtimXBuIkjJdLCyPw", "token_chunks": [[0, 1, 2, 3, 4], [5, 6], [7, 8, 9, 10, 11, 12, 13], [14]], "labels": {"gpt-4o": [1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1]}}
+{"generation_id": "5BrDNzqfSn0aaWCeczIEzw", "token_chunks": [[0, 1, 2, 3], [4, 5], [6, 7, 8, 9], [10, 11, 12], [13]], "labels": {"gpt-4o": [1, 1, -1, 1, 1], "gpt-4.1": [1, 1, -1, 1, 1]}}
+{"generation_id": "wlgrvd3t1sRa2StgqoRIvQ", "token_chunks": [[0, 1, 2, 3], [4, 5], [6, 7, 8, 9], [10, 11, 12, 13, 14, 15, 16], [17, 18, 19, 20, 21], [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32], [33, 34, 35, 36, 37, 38, 39, 40], [41]], "labels": {"gpt-4o": [1, 1, 1, -1, -1, -1, -1, 1], "gpt-4.1": [1, 1, 1, -1, -1, -1, -1, 1]}}
+{"generation_id": "pozD31lOBILOKheXf6T6pQ", "token_chunks": [[0, 1, 2, 3, 4], [5, 6, 7], [8, 9, 10, 11, 12, 13, 14], [15]], "labels": {"gpt-4o": [1, -1, -1, 1], "gpt-4.1": [1, -1, -1, 1]}}
+{"generation_id": "etuGcBq98g_EckKs8vY7RA", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], [12]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "NTZ5XsuAMPrgR7g7dt_ZcA", "token_chunks": [[0, 1, 2, 3, 4, 5], [6]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "ty7H9dPgakBKJ8rhHZO37g", "token_chunks": [[0, 1, 2], [3, 4, 5, 6, 7], [8]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "fUJmPj6bQckaTE3R1QrIQg", "token_chunks": [[0, 1], [2, 3, 4, 5], [6, 7, 8], [9, 10], [11, 12], [13, 14, 15], [16]], "labels": {"gpt-4o": [1, -1, 1, -1, 1, 1, 1], "gpt-4.1": [1, -1, 1, -1, 1, 1, 1]}}
+{"generation_id": "e7rWri9hUezw_F_W0Q_Xpg", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "fZYxZ2E_B6TdTwmPR11jiA", "token_chunks": [[0, 1], [2, 3, 4, 5], [6]], "labels": {"gpt-4o": [1, -1, 1], "gpt-4.1": [1, -1, 1]}}
+{"generation_id": "w4RkyPW0vySqudfUuRmJdg", "token_chunks": [[0, 1, 2, 3, 4], [5, 6], [7, 8, 9, 10, 11, 12, 13], [14]], "labels": {"gpt-4o": [1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1]}}
+{"generation_id": "SwPgSapcQ5bSE7ah1ADqAg", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8], [9]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "QHzfqupLYSuqVKpx3NJe2g", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "Z0XjC7iXH9i0Wkj6xQUnKQ", "token_chunks": [[0], [1, 2], [3, 4, 5], [6, 7, 8], [9, 10], [11, 12], [13, 14], [15, 16, 17, 18, 19, 20], [21, 22, 23, 24, 25, 26, 27], [28, 29, 30, 31, 32, 33, 34], [35, 36, 37, 38, 39], [40, 41, 42, 43, 44], [45, 46, 47, 48, 49, 50, 51, 52], [53, 54, 55, 56, 57], [58, 59, 60, 61, 62], [63, 64, 65, 66, 67, 68], [69, 70, 71, 72, 73, 74], [75, 76, 77, 78, 79, 80], [81, 82, 83, 84, 85, 86, 87, 88], [89, 90, 91, 92, 93], [94]], "labels": {"gpt-4o": [1, 1, 1, 1, 1, 1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1], "gpt-4.1": [1, 1, 1, 1, 1, 1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1]}}
+{"generation_id": "laAexiXh75WD2bgJGUC9fA", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "OHYjgeJKZWFN2KLjpyIn3Q", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "feuqT4d0tTLd5re8r1sFuA", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "X8PXmjkiGCse9T89KvnBBA", "token_chunks": [[0, 1, 2, 3, 4, 5], [6]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "TxYX14A3XT2vlWHIryzzfQ", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "47S0JSEwMMvuEOJHyMenGA", "token_chunks": [[0, 1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11], [12, 13, 14, 15, 16, 17, 18], [19, 20], [21, 22, 23, 24, 25, 26], [27, 28], [29, 30, 31, 32, 33], [34, 35, 36, 37, 38, 39], [40], [41, 42, 43, 44], [45, 46, 47], [48, 49, 50, 51], [52, 53, 54, 55, 56, 57], [58, 59, 60, 61, 62, 63, 64, 65, 66], [67]], "labels": {"gpt-4o": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}}
+{"generation_id": "zxdZR2beNkqnQL_SBxLdXg", "token_chunks": [[0, 1], [2, 3, 4, 5], [6, 7, 8, 9, 10, 11, 12], [13]], "labels": {"gpt-4o": [-1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, 1]}}
+{"generation_id": "m5bCsiOV_my-EhG5wlaY8Q", "token_chunks": [[0, 1, 2], [3, 4, 5, 6], [7, 8, 9, 10], [11]], "labels": {"gpt-4o": [1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1]}}
+{"generation_id": "K6fGgzhYWafjjweHAkmrcQ", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "nkNuPpiOOkgAin8KAE2ejQ", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7], [8, 9, 10], [11, 12], [13, 14, 15, 16], [17, 18, 19, 20, 21], [22]], "labels": {"gpt-4o": [1, 1, 1, 1, -1, 1], "gpt-4.1": [1, 1, 1, 1, -1, 1]}}
+{"generation_id": "m1fuvNW7_IGdZ3rcUIQL6g", "token_chunks": [[0, 1, 2, 3], [4, 5], [6, 7, 8, 9], [10, 11, 12], [13, 14, 15, 16], [17, 18, 19], [20, 21, 22, 23], [24]], "labels": {"gpt-4o": [1, 1, -1, -1, -1, -1, -1, 1], "gpt-4.1": [1, 1, -1, -1, -1, -1, -1, 1]}}
+{"generation_id": "1U2h3sa9nJ7OkH4emeB68A", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "9_RV7aXQzSm14a26isgH9Q", "token_chunks": [[0, 1], [2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12], [13, 14, 15, 16], [17]], "labels": {"gpt-4o": [1, 1, 1, -1, -1, 1], "gpt-4.1": [1, 1, 1, -1, -1, 1]}}
+{"generation_id": "SHcy6YVV2CzAQ3HbGCte8Q", "token_chunks": [[0, 1, 2, 3, 4, 5, 6], [7]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "xmH8Xeg5jdUxX38Q7_IroQ", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "fLkvpoxsXwpjogYR3TvF8g", "token_chunks": [[0, 1, 2, 3, 4], [5, 6], [7, 8, 9, 10, 11, 12], [13, 14], [15, 16, 17, 18], [19, 20], [21, 22, 23, 24, 25, 26, 27], [28]], "labels": {"gpt-4o": [1, 1, 1, 1, -1, -1, -1, 1], "gpt-4.1": [1, 1, 1, 1, -1, -1, -1, 1]}}
+{"generation_id": "9WzJ08lVCde-huw-ePNdOA", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "KjyRknzyyMy7EOSd7K_3GQ", "token_chunks": [[0, 1, 2], [3, 4, 5, 6, 7], [8]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "qxFuTka8_Z-u98yF7tptbg", "token_chunks": [[0, 1, 2], [3, 4], [5, 6, 7, 8, 9], [10, 11, 12], [13]], "labels": {"gpt-4o": [1, 1, -1, -1, 1], "gpt-4.1": [1, 1, -1, -1, 1]}}
+{"generation_id": "E3Pj2YVWhNxgNMUlvxu4ig", "token_chunks": [[0, 1, 2], [3, 4], [5, 6, 7, 8, 9, 10, 11, 12], [13]], "labels": {"gpt-4o": [1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1]}}
+{"generation_id": "m4IxEtL9uFOmtW4d31R5-w", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "Ff015wIvtCDW8HQgQxiOOw", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "AQs3qvsmRIVpGKQ1Utt-Fg", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "NKUd9EjHuoRG4NAB2wmHCQ", "token_chunks": [[0], [1, 2, 3], [4]], "labels": {"gpt-4o": [1, -1, 1], "gpt-4.1": [1, -1, 1]}}
+{"generation_id": "-GZUqb6j2-BwLnMOI5VqXA", "token_chunks": [[0, 1, 2, 3], [4, 5, 6, 7, 8, 9, 10], [11]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "viGmsJlPpUnifIEUELnA5g", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "C_c_Ib_vKBLp169_E4TVeg", "token_chunks": [[0, 1, 2, 3, 4, 5, 6], [7, 8, 9, 10], [11]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "sEUz-Or64Xkaj1kx2LYQjA", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "c7AGBicQt3Sp83QiyQwGZA", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "Ip50jN9syeLOp06IiTY9rg", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "-AjBwgSoAgklRIOpSQIxKg", "token_chunks": [[0, 1], [2, 3], [4, 5, 6, 7, 8, 9, 10, 11, 12, 13], [14, 15, 16], [17]], "labels": {"gpt-4o": [1, 1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1, 1]}}
+{"generation_id": "Muak09ssmfKOFV_CDUuP5A", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "p3r7t0lrqMFavBTiqIwkQQ", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7], [8]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "7MnJ7e1OGvs3TWcQ6xVJww", "token_chunks": [[0, 1, 2], [3, 4, 5, 6], [7, 8, 9, 10, 11, 12, 13, 14], [15]], "labels": {"gpt-4o": [1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1]}}
+{"generation_id": "OiHrxmP_fdiERaFt70eldw", "token_chunks": [[0, 1, 2], [3, 4, 5, 6], [7, 8, 9], [10]], "labels": {"gpt-4o": [1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1]}}
+{"generation_id": "xp659OlWRofYUYskyqwbbg", "token_chunks": [[0, 1, 2, 3], [4, 5, 6], [7, 8, 9, 10, 11], [12, 13, 14, 15, 16, 17], [18]], "labels": {"gpt-4o": [-1, -1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, -1, 1]}}
+{"generation_id": "zfEraaWkN0sw_D-jTlOc4Q", "token_chunks": [[0, 1, 2], [3, 4, 5], [6, 7, 8, 9], [10, 11, 12, 13], [14]], "labels": {"gpt-4o": [1, 1, -1, -1, 1], "gpt-4.1": [1, 1, -1, -1, 1]}}
+{"generation_id": "hZdDXBHBA8FwBJK40g6o2g", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "A-MXBxqTeQp2ytKf638KYw", "token_chunks": [[0, 1, 2, 3, 4, 5], [6]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "MrLflkTI42dWk0tdP3x0jw", "token_chunks": [[0, 1, 2, 3, 4, 5], [6]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "SqEF7XhAAfeqEqn1_Oj88A", "token_chunks": [[0, 1], [2, 3, 4, 5], [6]], "labels": {"gpt-4o": [1, -1, 1], "gpt-4.1": [1, -1, 1]}}
+{"generation_id": "JcPuN6ZrNS_Oy8q9d7zS5w", "token_chunks": [[0, 1, 2, 3, 4, 5, 6], [7]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "9yZWOvfkuCA_oI587AggFg", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "dRM7Yqk6viKH890sGZK91Q", "token_chunks": [[0, 1, 2, 3, 4, 5], [6, 7], [8, 9, 10, 11], [12, 13, 14, 15, 16, 17, 18], [19]], "labels": {"gpt-4o": [1, 1, -1, -1, 1], "gpt-4.1": [1, 1, -1, -1, 1]}}
+{"generation_id": "6GN_1F_1So4yciUO81asDg", "token_chunks": [[0, 1, 2], [3, 4, 5], [6, 7, 8, 9, 10, 11], [12, 13, 14, 15, 16, 17], [18, 19], [20, 21, 22], [23]], "labels": {"gpt-4o": [-1, 1, 1, 1, -1, -1, 1], "gpt-4.1": [-1, 1, 1, 1, -1, -1, 1]}}
+{"generation_id": "L67wJ6yfvQFz4Q128quJPw", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "nJdOmyMOgD2i0EEQvhOBPg", "token_chunks": [[0, 1, 2, 3, 4], [5, 6], [7, 8, 9, 10, 11, 12, 13], [14, 15, 16], [17, 18, 19, 20, 21], [22]], "labels": {"gpt-4o": [1, 1, -1, -1, -1, 1], "gpt-4.1": [1, 1, -1, -1, -1, 1]}}
+{"generation_id": "EzTnTwPRYtIaukwDkdJc2g", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "yfZ_N2pqEfaPvOeQNDgmSA", "token_chunks": [[0, 1, 2, 3], [4, 5], [6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18], [19]], "labels": {"gpt-4o": [1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1]}}
+{"generation_id": "EVqWW4ff2N9iTszIYqrY-w", "token_chunks": [[0, 1, 2, 3], [4, 5, 6, 7, 8, 9, 10], [11, 12, 13, 14, 15, 16, 17, 18], [19]], "labels": {"gpt-4o": [1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1]}}
+{"generation_id": "L6_Lk7r8ccpoDdnCVn5i0w", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "mPVjiijSoiP4mpeT6Hp68Q", "token_chunks": [[0, 1, 2], [3, 4], [5, 6, 7], [8, 9, 10], [11]], "labels": {"gpt-4o": [1, 1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1, 1]}}
+{"generation_id": "KK0hVybTBas1Q7ZhAfUKkw", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "yO3N83_8H8-uAnd7-Jsu1Q", "token_chunks": [[0, 1, 2, 3, 4, 5], [6, 7, 8, 9, 10], [11]], "labels": {"gpt-4o": [-1, 1, 1], "gpt-4.1": [-1, 1, 1]}}
+{"generation_id": "FDpvZ6aoladrshzHUIgDZA", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7], [8, 9, 10], [11, 12], [13, 14, 15, 16, 17, 18, 19], [20]], "labels": {"gpt-4o": [1, 1, 1, -1, 1], "gpt-4.1": [1, 1, 1, -1, 1]}}
+{"generation_id": "A6EvtvL68aRvA1zVzbOoUQ", "token_chunks": [[0, 1, 2], [3, 4, 5, 6, 7, 8, 9, 10, 11], [12, 13, 14, 15, 16], [17]], "labels": {"gpt-4o": [1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1]}}
+{"generation_id": "xyybFKsdvajObnOHs6Ec1g", "token_chunks": [[0, 1, 2, 3, 4, 5, 6], [7]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "hmPTCk1VDonyQBRJbmcABQ", "token_chunks": [[0, 1], [2, 3, 4, 5], [6]], "labels": {"gpt-4o": [1, -1, 1], "gpt-4.1": [1, -1, 1]}}
+{"generation_id": "NQAUljvWbLiCkMSlWJlIiQ", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7], [8]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "zbqFk1bM0J21NgdkdPf7vQ", "token_chunks": [[0, 1, 2, 3], [4, 5, 6, 7], [8, 9, 10], [11]], "labels": {"gpt-4o": [1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1]}}
+{"generation_id": "rvj_bk3kW-GRUfMSzI7fWQ", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "6_KB2kWR4kE-EJ7ykGwVgg", "token_chunks": [[0, 1], [2, 3, 4], [5]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "b4P5T9wfd1vCztSbjqKajA", "token_chunks": [[0, 1], [2, 3, 4], [5]], "labels": {"gpt-4o": [1, 1, 1], "gpt-4.1": [1, 1, 1]}}
+{"generation_id": "_OlBrDYVlelEbUO_ASgKxg", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "Rx89QqZArZZQufKLzepSWw", "token_chunks": [[0, 1, 2, 3, 4, 5, 6], [7]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "mIyM_aPzMxZsXLCM3w1hrQ", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8], [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], [21]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "jdYGZLm5l9hJyIoilfATBw", "token_chunks": [[0], [1, 2, 3], [4, 5, 6], [7, 8, 9], [10, 11, 12], [13, 14, 15, 16], [17, 18, 19, 20], [21, 22, 23, 24], [25, 26, 27, 28], [29, 30, 31, 32], [33, 34, 35, 36], [37, 38, 39, 40, 41], [42]], "labels": {"gpt-4o": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}}
+{"generation_id": "PHZV4NLmSmQmON8k3m41lQ", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "JAG2OvT__bcSiZB-3szoQw", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "UoYSE1Q1MGCIV8_YlTh3zQ", "token_chunks": [[0, 1, 2, 3, 4, 5], [6, 7, 8], [9]], "labels": {"gpt-4o": [-1, 1, 1], "gpt-4.1": [-1, 1, 1]}}
+{"generation_id": "0G_BWcdY3Pze8vlr2_VH1A", "token_chunks": [[0, 1, 2, 3, 4], [5, 6], [7, 8, 9], [10, 11, 12, 13], [14]], "labels": {"gpt-4o": [1, 1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1, 1]}}
+{"generation_id": "HmFfm_m5Kn5JeR0e6Yp6ng", "token_chunks": [[0, 1, 2, 3], [4, 5, 6, 7], [8]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "JF9MCi2zviPH0wBqRa5tnw", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "p-RCdmZvKTt06LDNkBcssg", "token_chunks": [[0, 1], [2, 3, 4, 5, 6, 7, 8], [9, 10], [11, 12, 13, 14, 15], [16, 17, 18, 19, 20, 21, 22], [23]], "labels": {"gpt-4o": [-1, -1, -1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, -1, -1, 1]}}
+{"generation_id": "9qMtNFeGvyUERHoR59NZyQ", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "d0ronRam39py5Q6mrTLlTg", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "nQ-TXUVqf6TUSr5QBthSZQ", "token_chunks": [[0, 1, 2], [3, 4, 5], [6, 7, 8, 9, 10], [11]], "labels": {"gpt-4o": [1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1]}}
+{"generation_id": "Q596HQ8kPnVLgsAFOD5ndA", "token_chunks": [[0, 1, 2], [3, 4, 5], [6]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "OICRN7hEhiyKAcIkNIjWew", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7], [8]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "KIQco5NncSa8yHyYUsKxnQ", "token_chunks": [[0, 1, 2, 3, 4, 5], [6, 7, 8, 9], [10, 11, 12, 13, 14, 15], [16]], "labels": {"gpt-4o": [1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1]}}
+{"generation_id": "MiG7uRkIZbhHqlVhNEPVaw", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "AMsTMod-KkoU1SgP4vShHw", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7], [8, 9, 10, 11, 12], [13]], "labels": {"gpt-4o": [-1, 1, 1], "gpt-4.1": [-1, 1, 1]}}
+{"generation_id": "D6QuNtst3sRof4dmVCeR5g", "token_chunks": [[0, 1, 2, 3, 4, 5], [6]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "TG6gW_isttRkawWLyjr6Zg", "token_chunks": [[0, 1], [2, 3], [4, 5], [6, 7, 8], [9, 10], [11, 12, 13, 14, 15, 16, 17], [18]], "labels": {"gpt-4o": [1, 1, 1, 1, 1, -1, 1], "gpt-4.1": [1, 1, 1, 1, 1, -1, 1]}}
+{"generation_id": "vZcFF_XK7BSDQzSxFtqetw", "token_chunks": [[0, 1, 2, 3], [4, 5, 6, 7, 8, 9, 10], [11]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "Ol5lXmhDMsc2rzmfLOJb1Q", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7], [8]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "ZZNLZcBesBydGWYki2Oczw", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "vp330-yfq1ycRsgHMZYn6w", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "q3rPQaaBd5lzpNYBhGzFGQ", "token_chunks": [[0, 1], [2, 3, 4, 5, 6, 7], [8, 9, 10, 11, 12, 13, 14, 15], [16]], "labels": {"gpt-4o": [1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1]}}
+{"generation_id": "Amy-8I_4LDxE-OHYl1o5jg", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "EOMq1_pvk7hhSx-Ddb3Tfg", "token_chunks": [[0, 1, 2, 3, 4, 5], [6]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "alDoQMzsd7Qnh1dy8dKRYw", "token_chunks": [[0, 1, 2, 3], [4, 5, 6, 7, 8, 9, 10], [11, 12, 13, 14, 15, 16, 17], [18]], "labels": {"gpt-4o": [-1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, 1]}}
+{"generation_id": "uGlPnW-OGJUQz_hvgF6iYg", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7], [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], [24]], "labels": {"gpt-4o": [1, -1, 1], "gpt-4.1": [1, -1, 1]}}
+{"generation_id": "fJGVwkaaqgSsBU-x5P1UXw", "token_chunks": [[0, 1, 2, 3, 4, 5], [6]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "djQ7gMkLYV7vNqp-xZe5DA", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "yiZpPErvgHoG6r-0iqoNMg", "token_chunks": [[0, 1, 2, 3, 4, 5, 6], [7, 8, 9], [10, 11, 12, 13], [14, 15, 16, 17, 18, 19, 20], [21]], "labels": {"gpt-4o": [1, 1, -1, -1, 1], "gpt-4.1": [1, 1, -1, -1, 1]}}
+{"generation_id": "6fMpdWxYb0N_J4Owu8f3Nw", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "BGL5NByttLtFmEatY93cdg", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "rOWMhzZL0nNqNO6E9w3PZQ", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "7-WnD3GiRyStt-LbNIZ-rw", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18], [19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32], [33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44], [45]], "labels": {"gpt-4o": [1, -1, -1, 1], "gpt-4.1": [1, -1, -1, 1]}}
+{"generation_id": "HJhz71OB3xqrwc0oI2EYyw", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "ychDqD298lH2qGbGUzoiMA", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "dWXeuI1o0xbyqGbs8IkNmg", "token_chunks": [[0, 1, 2], [3, 4, 5], [6, 7, 8], [9, 10, 11], [12, 13, 14, 15], [16]], "labels": {"gpt-4o": [1, -1, -1, -1, -1, 1], "gpt-4.1": [1, -1, -1, -1, -1, 1]}}
+{"generation_id": "ucybSc7juq6lvq1Sn3OIcQ", "token_chunks": [[0, 1, 2, 3, 4, 5, 6], [7, 8, 9, 10, 11], [12, 13, 14, 15, 16, 17], [18]], "labels": {"gpt-4o": [1, 1, -1, 1], "gpt-4.1": [1, 1, -1, 1]}}
+{"generation_id": "ytmHCzN46B_U18ny5LeImQ", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "TUDNFsQZ_HUtgmSjbEgzow", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "sPQ6I89cIQvmDuNkJdznGg", "token_chunks": [[0], [1, 2, 3, 4], [5, 6, 7, 8, 9, 10, 11, 12], [13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27], [28]], "labels": {"gpt-4o": [1, 1, 1, -1, 1], "gpt-4.1": [1, 1, 1, -1, 1]}}
+{"generation_id": "jY8gwEE-ilc_BgBLFqnSSA", "token_chunks": [[0, 1, 2, 3, 4], [5, 6, 7, 8, 9, 10], [11, 12, 13], [14, 15, 16, 17, 18], [19, 20, 21, 22, 23, 24, 25, 26, 27], [28]], "labels": {"gpt-4o": [-1, -1, -1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, -1, -1, 1]}}
+{"generation_id": "8zTNis7P1cvIyiAtFNQfdw", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "DG-842Op282fY4tm2LafUg", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "tA4LGLUsav7dArxtClCt2A", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "tT9x-ryRAiXPzO2Al1zHMA", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "HNNiK1n2_-XJybNP8hbSOA", "token_chunks": [[0, 1], [2, 3, 4, 5], [6]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "39uPYOkUjL9XLp-s_BEnzg", "token_chunks": [[0, 1], [2, 3], [4, 5], [6, 7], [8, 9, 10], [11, 12, 13], [14, 15, 16, 17, 18], [19]], "labels": {"gpt-4o": [1, 1, 1, 1, 1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1, 1, 1, 1, 1]}}
+{"generation_id": "VNjh10MvQJCOsHOriwl4Pw", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "hoQHpUVkzWu5kVW7ba1SuA", "token_chunks": [[0, 1], [2, 3, 4], [5, 6, 7, 8, 9, 10, 11], [12]], "labels": {"gpt-4o": [-1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, 1]}}
+{"generation_id": "QkT0l4mde-D5I9-Kthf3fg", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "HhwprF01T0YXjTy1S0AqSQ", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "2fVKOICS1tCYowMwIVIgrA", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "EhTiVup-afg1PufSKo8iAA", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "Xz9YYXOI7lSYze_lEQiePw", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7], [8]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "F9Ll2JpzUM_w02Sb5LQ4Rg", "token_chunks": [[0, 1], [2, 3, 4, 5, 6, 7, 8], [9]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "Ums9HoqO6z1AqpYqRVIpUQ", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "Y3yBCEJl0Jd34bdlEtOi3Q", "token_chunks": [[0, 1], [2, 3, 4, 5, 6, 7, 8], [9]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "AlHaRGvfFYRHAT6rWyB4oA", "token_chunks": [[0, 1, 2, 3, 4, 5], [6]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "lC-Dc886Itav6tISz4I-yg", "token_chunks": [[0, 1, 2, 3, 4], [5, 6, 7], [8, 9, 10, 11, 12], [13, 14, 15, 16, 17, 18, 19], [20]], "labels": {"gpt-4o": [-1, -1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, -1, 1]}}
+{"generation_id": "EIwahPjkbvZoomO5CtLLBQ", "token_chunks": [[0, 1, 2], [3, 4, 5, 6], [7]], "labels": {"gpt-4o": [1, 1, 1], "gpt-4.1": [1, 1, 1]}}
+{"generation_id": "pqJaJM0HAr0GopIZnbhnag", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "n_U3AjQQx_yattKEw9haJw", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "8ZI8EJp32LLoLBQ7XV6n1w", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7], [8]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "A4Lv95gXJ5KofBWRYjw50g", "token_chunks": [[0, 1], [2, 3, 4, 5], [6, 7], [8, 9, 10, 11], [12]], "labels": {"gpt-4o": [1, 1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1, 1]}}
+{"generation_id": "xrF8bsA9S3ny6NbemuI8Pg", "token_chunks": [[0, 1, 2, 3, 4], [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15], [16, 17], [18, 19, 20, 21, 22, 23, 24, 25], [26]], "labels": {"gpt-4o": [-1, -1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, -1, 1]}}
+{"generation_id": "yvOzjhXY_pj37rZIO5E2zw", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "WS-criuT5JZDOSpvsK-1tw", "token_chunks": [[0, 1, 2, 3], [4, 5, 6, 7, 8, 9], [10, 11, 12, 13, 14, 15], [16, 17, 18, 19, 20, 21, 22], [23, 24, 25, 26, 27, 28, 29, 30, 31], [32, 33, 34, 35, 36], [37]], "labels": {"gpt-4o": [1, 1, 1, 1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1, 1, 1, 1]}}
+{"generation_id": "Y0XClGYA9C2EsPmUHa5yNg", "token_chunks": [[0, 1, 2, 3, 4, 5, 6], [7, 8, 9, 10, 11, 12, 13, 14, 15], [16]], "labels": {"gpt-4o": [1, -1, 1], "gpt-4.1": [1, -1, 1]}}
+{"generation_id": "glZaeVWdmffg9DfYEU5OaA", "token_chunks": [[0, 1, 2, 3, 4], [5, 6, 7], [8, 9, 10, 11, 12, 13, 14, 15], [16]], "labels": {"gpt-4o": [-1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, 1]}}
+{"generation_id": "sQ_SvgtBORihG8hen4NHIg", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "hdbkf3kKEIiQaQoDOdMm_A", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "uz6S-wELIclVTyZTXtNEiA", "token_chunks": [[0, 1, 2, 3, 4, 5], [6]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "NxYyLnKUun50S099dk-81g", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "By3jmdD9jhCcxjR9Say9Sw", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "uyk4lwsAfy_P0QlgHGROfg", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "Ay61_5NcyurZRUwbb80zpw", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "waE1cQVkpJ5TO1v1awdCVw", "token_chunks": [[0, 1, 2], [3, 4, 5, 6, 7, 8, 9, 10, 11], [12]], "labels": {"gpt-4o": [1, -1, 1], "gpt-4.1": [1, -1, 1]}}
+{"generation_id": "93jrbCtHDpiN2ibm4V9v0Q", "token_chunks": [[0, 1, 2], [3, 4, 5, 6], [7, 8], [9, 10, 11, 12, 13, 14], [15, 16, 17, 18, 19], [20, 21, 22, 23], [24, 25, 26, 27, 28], [29]], "labels": {"gpt-4o": [1, -1, 1, 1, 1, -1, -1, 1], "gpt-4.1": [1, -1, 1, 1, 1, -1, -1, 1]}}
+{"generation_id": "HPEFvRSSfFsXPdGuLQAlkw", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "jW-bcmhg4wTnzzKJY6ODow", "token_chunks": [[0, 1], [2, 3], [4, 5, 6, 7, 8], [9, 10], [11, 12, 13, 14], [15]], "labels": {"gpt-4o": [1, 1, 1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1, 1, 1]}}
+{"generation_id": "icFJx0AtivDxinjsV8rvWA", "token_chunks": [[0, 1, 2, 3, 4], [5, 6], [7, 8, 9, 10], [11, 12, 13], [14]], "labels": {"gpt-4o": [1, 1, 1, -1, 1], "gpt-4.1": [1, 1, 1, -1, 1]}}
+{"generation_id": "Tdz6rOHXjCWU44oFumGxOw", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "24_d3CD-Wm9fuRxixcaqVA", "token_chunks": [[0, 1, 2, 3, 4, 5, 6], [7, 8, 9, 10], [11, 12, 13], [14, 15], [16, 17, 18], [19]], "labels": {"gpt-4o": [1, 1, 1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1, 1, 1]}}
+{"generation_id": "gxXb2PwB7IThms68PiSZyQ", "token_chunks": [[0, 1], [2, 3, 4, 5, 6, 7, 8, 9, 10], [11, 12, 13], [14]], "labels": {"gpt-4o": [1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1]}}
+{"generation_id": "JlwXobXfDcpX8euCClcRXA", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "UbZPBvf27amIQzUJnudzWA", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1]}}
+{"generation_id": "rYwMOtuBl8r3yojSgoXhvQ", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "dEiuqX7jSKgSBu_ci7IIrw", "token_chunks": [[0, 1, 2, 3, 4], [5, 6, 7, 8], [9]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "CL4grFobNjzlgqzBiVZg8A", "token_chunks": [[0, 1], [2, 3, 4, 5, 6], [7]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "EomOdOj_0i4Y44h8sCumvg", "token_chunks": [[0, 1, 2], [3, 4, 5, 6, 7, 8], [9, 10, 11], [12, 13, 14], [15, 16, 17, 18], [19, 20, 21, 22, 23, 24, 25, 26, 27], [28]], "labels": {"gpt-4o": [1, 1, 1, 1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1, 1, 1, 1]}}
+{"generation_id": "yaQWMYKM0ZIp9C6ib27qbA", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], [12, 13, 14, 15], [16, 17, 18], [19, 20, 21, 22], [23, 24, 25, 26, 27], [28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39], [40, 41, 42, 43, 44], [45, 46, 47], [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61], [62], [63, 64, 65], [66, 67], [68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81], [82, 83, 84], [85, 86], [87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100], [101, 102, 103], [104, 105, 106, 107, 108, 109, 110], [111]], "labels": {"gpt-4o": [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1]}}
+{"generation_id": "_uce_6A2Lb8r9pPg0hebng", "token_chunks": [[0], [1, 2, 3], [4, 5, 6], [7, 8, 9, 10, 11, 12, 13], [14, 15, 16, 17, 18, 19, 20], [21]], "labels": {"gpt-4o": [1, 1, 1, -1, -1, 1], "gpt-4.1": [1, 1, 1, -1, -1, 1]}}
+{"generation_id": "Pg8t_K2UfQtzO2lp_ojvow", "token_chunks": [[0, 1, 2], [3, 4, 5, 6, 7, 8], [9, 10, 11, 12, 13, 14], [15, 16, 17, 18, 19, 20, 21, 22], [23, 24, 25, 26, 27, 28, 29], [30, 31, 32, 33, 34, 35, 36], [37, 38, 39, 40, 41, 42, 43, 44], [45, 46, 47, 48, 49, 50], [51, 52, 53, 54, 55], [56, 57, 58, 59, 60], [61, 62, 63], [64]], "labels": {"gpt-4o": [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1]}}
+{"generation_id": "BylbxPeCPFSg6I4B0PkT2g", "token_chunks": [[0, 1, 2, 3, 4, 5, 6], [7]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "wkFpQExLwQvLhL1RHvXh1A", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "Z4iNTMvKRnkprQ3o6eEPsA", "token_chunks": [[0, 1], [2, 3, 4, 5, 6], [7, 8, 9, 10, 11], [12, 13], [14, 15, 16], [17, 18, 19, 20, 21, 22], [23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34], [35]], "labels": {"gpt-4o": [1, 1, -1, -1, -1, -1, -1, 1], "gpt-4.1": [1, 1, -1, -1, -1, -1, -1, 1]}}
+{"generation_id": "2YiiTKJgfrCvAAPzFonWtg", "token_chunks": [[0, 1, 2, 3, 4, 5], [6, 7, 8, 9, 10], [11, 12, 13, 14, 15, 16, 17, 18], [19, 20, 21, 22, 23], [24, 25, 26, 27, 28, 29, 30, 31, 32], [33, 34, 35, 36, 37], [38, 39, 40, 41, 42, 43], [44, 45], [46, 47, 48, 49], [50, 51, 52, 53, 54], [55, 56, 57, 58, 59, 60, 61, 62, 63, 64], [65, 66, 67, 68, 69, 70], [71]], "labels": {"gpt-4o": [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1]}}
+{"generation_id": "ifodMEzZxy1l0XYBvU1_0g", "token_chunks": [[0, 1, 2, 3, 4, 5], [6]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "nhcsktkMzTNkV2NjKkPW4w", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8], [9]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "koz_jP_ROO2cjDO3MueSAQ", "token_chunks": [[0, 1, 2, 3, 4, 5], [6, 7, 8, 9, 10], [11], [12]], "labels": {"gpt-4o": [-1, -1, 1, 1], "gpt-4.1": [-1, -1, 1, 1]}}
+{"generation_id": "gXOAdIoi_Wb1M3H_ERadlQ", "token_chunks": [[0, 1], [2, 3, 4], [5], [6]], "labels": {"gpt-4o": [1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1]}}
+{"generation_id": "HyR8Zv3lgNNtOohUBoAdvQ", "token_chunks": [[0, 1, 2, 3, 4, 5], [6]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "2v-duh10BFscnk3VlBLmcg", "token_chunks": [[0, 1, 2, 3, 4], [5, 6, 7, 8, 9], [10], [11]], "labels": {"gpt-4o": [-1, -1, 1, 1], "gpt-4.1": [-1, -1, 1, 1]}}
+{"generation_id": "cjovALOJypFJsmk__ivQLg", "token_chunks": [[0, 1, 2, 3, 4, 5], [6]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "26f4HiGm0QVL6By7F3LnJQ", "token_chunks": [[0], [1, 2, 3], [4]], "labels": {"gpt-4o": [1, 1, 1], "gpt-4.1": [1, 1, 1]}}
+{"generation_id": "b7D3Ud5VWInjOhFG5dVnpQ", "token_chunks": [[0, 1], [2], [3]], "labels": {"gpt-4o": [1, 1, 1], "gpt-4.1": [1, 1, 1]}}
+{"generation_id": "QCGixsHpCmtd3ycgcQYUNQ", "token_chunks": [[0, 1, 2, 3, 4], [5, 6], [7, 8, 9], [10, 11, 12, 13, 14, 15, 16, 17], [18, 19, 20], [21, 22, 23, 24], [25, 26, 27], [28, 29], [30, 31], [32, 33], [34], [35]], "labels": {"gpt-4o": [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1]}}
+{"generation_id": "9EJpwok10gW2roJosr_yrg", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "vN-kqbmkZvZWTeQtdt9WvA", "token_chunks": [[0, 1, 2, 3, 4, 5], [6, 7, 8, 9, 10, 11, 12, 13], [14], [15]], "labels": {"gpt-4o": [-1, -1, 1, 1], "gpt-4.1": [-1, -1, 1, 1]}}
+{"generation_id": "tmqiUHZv3eEwUaEU2Wet8w", "token_chunks": [[0, 1, 2], [3, 4, 5], [6, 7], [8, 9, 10, 11, 12, 13, 14, 15], [16, 17, 18, 19, 20], [21, 22, 23, 24, 25], [26, 27, 28, 29, 30, 31], [32, 33, 34, 35, 36], [37, 38, 39, 40, 41], [42], [43]], "labels": {"gpt-4o": [1, 1, 1, -1, -1, -1, -1, -1, -1, -1, 1], "gpt-4.1": [1, 1, 1, -1, -1, -1, -1, -1, -1, -1, 1]}}
+{"generation_id": "rYBFDrJCQATyaxrqXUNpbA", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8, 9], [10]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1]}}
+{"generation_id": "NG5a5-3atDQCtWBdSm9e4g", "token_chunks": [[0, 1, 2, 3], [4, 5, 6, 7, 8], [9]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1]}}
+{"generation_id": "VBoHK3DondNvcGGRzvHrpw", "token_chunks": [[0, 1, 2, 3], [4, 5, 6, 7, 8, 9], [10, 11], [12, 13, 14, 15, 16, 17], [18, 19], [20, 21, 22], [23, 24, 25, 26], [27, 28, 29], [30, 31], [32], [33]], "labels": {"gpt-4o": [1, 1, -1, -1, 1, 1, 1, 1, 1, 1, 1], "gpt-4.1": [1, 1, -1, -1, 1, 1, 1, 1, 1, 1, 1]}}
+{"generation_id": "T6OB25QljB_PG-mxZhyW-Q", "token_chunks": [[0, 1, 2, 3, 4], [5, 6, 7, 8, 9, 10], [11, 12], [13]], "labels": {"gpt-4o": [-1, -1, 1, 1], "gpt-4.1": [-1, -1, 1, 1]}}
+{"generation_id": "U4dOr1yb1R4dKa3FMGPXIA", "token_chunks": [[0, 1, 2], [3, 4], [5, 6], [7, 8, 9, 10, 11], [12], [13]], "labels": {"gpt-4o": [1, 1, 1, -1, 1, 1], "gpt-4.1": [1, 1, 1, -1, 1, 1]}}
+{"generation_id": "jTWyNClVD1PDB1QgwPzppQ", "token_chunks": [[0, 1], [2, 3, 4, 5, 6, 7, 8], [9, 10, 11, 12, 13, 14, 15, 16, 17, 18], [19, 20, 21, 22, 23], [24, 25, 26, 27, 28, 29], [30, 31, 32, 33, 34, 35], [36, 37, 38, 39, 40, 41, 42, 43, 44, 45], [46, 47, 48, 49, 50, 51], [52, 53, 54, 55, 56, 57, 58, 59, 60], [61, 62, 63, 64, 65], [66, 67, 68, 69, 70], [71, 72, 73, 74, 75], [76]], "labels": {"gpt-4o": [1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1], "gpt-4.1": [1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1]}}
+{"generation_id": "z0HiU_JMH-Ortco59zzUMQ", "token_chunks": [[0, 1, 2], [3, 4], [5, 6, 7, 8, 9, 10, 11, 12, 13], [14, 15, 16, 17, 18, 19], [20, 21, 22, 23, 24], [25, 26, 27, 28], [29]], "labels": {"gpt-4o": [1, 1, -1, -1, -1, -1, 1], "gpt-4.1": [1, 1, -1, -1, -1, -1, 1]}}
+{"generation_id": "WvaJdHskW0NxhHt0SAsFcg", "token_chunks": [[0, 1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11], [12, 13, 14, 15, 16, 17, 18, 19, 20, 21], [22], [23, 24, 25, 26], [27, 28, 29], [30, 31, 32], [33, 34, 35, 36], [37, 38, 39, 40, 41, 42], [43, 44, 45, 46, 47, 48, 49], [50], [51, 52, 53, 54, 55, 56, 57, 58], [59, 60, 61, 62, 63, 64], [65], [66, 67, 68, 69], [70, 71], [72, 73, 74], [75]], "labels": {"gpt-4o": [1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1], "gpt-4.1": [1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1]}}
+{"generation_id": "_BMsgRUYemPrXRjXozjWPg", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1], "an0": [1, 1], "an1": [1, 1]}}
+{"generation_id": "0xP_Cv460yrs_3_JpqTVDA", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1], "an0": [1, 1], "an1": [1, 1]}}
+{"generation_id": "fHpi8Nf2P-yTnsmGytE9KQ", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1], "an0": [1, 1], "an1": [1, 1]}}
+{"generation_id": "qtNPDs7CmyWfNYz3p0AUfw", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1], "an0": [1, 1], "an1": [1, 1]}}
+{"generation_id": "CW746LTeMXycD_1s3w2zqQ", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7], [8]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1], "an0": [1, 1], "an1": [-1, 1]}}
+{"generation_id": "j-AHTmEq1d4H6_afsfAt2w", "token_chunks": [[0, 1], [2, 3, 4, 5, 6], [7]], "labels": {"gpt-4o": [-1, -1, 1], "gpt-4.1": [-1, -1, 1], "an0": [-1, -1, 1], "an1": [-1, -1, 1]}}
+{"generation_id": "yfE0HCQxrmMMhincOv_iDQ", "token_chunks": [[0, 1, 2, 3, 4, 5, 6], [7, 8], [9, 10], [11, 12, 13], [14, 15, 16], [17, 18], [19, 20], [21, 22, 23], [24, 25, 26, 27], [28]], "labels": {"gpt-4o": [1, 1, 1, 1, -1, -1, -1, -1, -1, 1], "gpt-4.1": [1, 1, 1, 1, -1, -1, -1, -1, -1, 1], "an0": [1, 1, 1, 1, -1, -1, -1, -1, -1, 1], "an1": [1, 1, 1, 1, -1, -1, -1, -1, -1, 1]}}
+{"generation_id": "pLSuJ_3KQDfvxh-rRcp5Bw", "token_chunks": [[0, 1, 2], [3, 4, 5, 6], [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17], [18]], "labels": {"gpt-4o": [-1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, 1], "an0": [1, -1, -1, 1], "an1": [1, -1, -1, 1]}}
+{"generation_id": "UbTnVfTy5dVxrzflmhJUrw", "token_chunks": [[0, 1], [2, 3, 4, 5, 6, 7, 8, 9, 10, 11], [12]], "labels": {"gpt-4o": [1, -1, 1], "gpt-4.1": [1, -1, 1], "an0": [1, -1, 1], "an1": [1, -1, 1]}}
+{"generation_id": "XZoN2jm9AoIzjMM72hfxqw", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1], "an0": [-1, 1], "an1": [-1, 1]}}
+{"generation_id": "MEfz-Z1gAR_jdxtcu2sgTg", "token_chunks": [[0, 1], [2, 3], [4, 5], [6, 7], [8, 9, 10, 11, 12, 13, 14], [15, 16], [17, 18, 19, 20, 21], [22]], "labels": {"gpt-4o": [1, 1, 1, 1, 1, 1, -1, 1], "gpt-4.1": [1, 1, 1, 1, 1, 1, -1, 1], "an0": [1, 1, 1, 1, 1, 1, -1, 1], "an1": [1, 1, 1, 1, 1, 1, -1, 1]}}
+{"generation_id": "Zi11QR1sy7-qFf0CUVE6FQ", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [1, 1], "gpt-4.1": [1, 1], "an0": [1, 1], "an1": [1, 1]}}
+{"generation_id": "8IyOsr09E8SOTkBIOdnjeA", "token_chunks": [[0, 1, 2], [3]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1], "an0": [-1, 1], "an1": [-1, 1]}}
+{"generation_id": "Df4wpx5SeuYsl0SnbMUzOw", "token_chunks": [[0], [1, 2, 3, 4, 5, 6, 7, 8, 9], [10, 11, 12], [13, 14, 15, 16, 17], [18, 19, 20], [21, 22, 23, 24, 25, 26, 27, 28, 29, 30], [31, 32, 33, 34, 35, 36, 37, 38], [39]], "labels": {"gpt-4o": [1, 1, -1, 1, -1, -1, -1, 1], "gpt-4.1": [1, 1, -1, 1, -1, -1, -1, 1], "an0": [1, 1, 1, 1, -1, -1, -1, 1], "an1": [1, 1, 1, 1, -1, -1, -1, 1]}}
+{"generation_id": "fdonV7O_NY2G_h4PFCi2Xw", "token_chunks": [[0, 1], [2, 3, 4, 5, 6], [7, 8, 9, 10, 11, 12], [13]], "labels": {"gpt-4o": [-1, -1, -1, 1], "gpt-4.1": [-1, -1, -1, 1], "an0": [1, 1, -1, 1], "an1": [1, 1, -1, 1]}}
+{"generation_id": "qtjfzGsHDJ_XXSPudjqOtQ", "token_chunks": [[0, 1, 2, 3], [4, 5, 6], [7, 8, 9], [10, 11], [12, 13, 14, 15, 16, 17, 18, 19], [20, 21, 22], [23, 24, 25], [26, 27, 28, 29], [30]], "labels": {"gpt-4o": [-1, 1, 1, 1, -1, 1, -1, -1, 1], "gpt-4.1": [-1, 1, 1, 1, -1, 1, -1, -1, 1], "an0": [-1, 1, 1, 1, 1, 1, -1, -1, 1], "an1": [-1, 1, 1, 1, 1, 1, -1, -1, 1]}}
+{"generation_id": "DSjYS9Jx806jO9miYUr_DA", "token_chunks": [[0, 1, 2, 3], [4]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1], "an0": [-1, 1], "an1": [-1, 1]}}
+{"generation_id": "ENyHfpnqV6TjzbHwkjyR6A", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8], [9]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1], "an0": [-1, 1], "an1": [-1, 1]}}
+{"generation_id": "OOWdEqphtMuDAYveheu0OA", "token_chunks": [[0, 1, 2], [3, 4, 5, 6, 7, 8], [9]], "labels": {"gpt-4o": [1, -1, 1], "gpt-4.1": [1, -1, 1], "an0": [1, -1, 1], "an1": [1, -1, 1]}}
+{"generation_id": "iONOKZCTFDfvYJdeCh94og", "token_chunks": [[0, 1, 2, 3], [4, 5, 6, 7], [8, 9, 10, 11], [12, 13, 14, 15, 16, 17, 18, 19, 20, 21], [22]], "labels": {"gpt-4o": [1, 1, 1, -1, 1], "gpt-4.1": [1, 1, 1, -1, 1], "an0": [1, 1, 1, -1, 1], "an1": [1, 1, 1, -1, 1]}}
+{"generation_id": "DQ2ErG9yaQhUvwx2tMX6eg", "token_chunks": [[0, 1], [2]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1], "an0": [-1, 1], "an1": [-1, 1]}}
+{"generation_id": "huGXZsa1hO6vYVyIMN2z4A", "token_chunks": [[0, 1], [2, 3, 4], [5, 6], [7, 8, 9, 10, 11], [12, 13, 14], [15, 16], [17, 18, 19, 20, 21], [22, 23, 24], [25, 26, 27], [28, 29, 30, 31], [32, 33, 34, 35, 36], [37, 38, 39], [40, 41, 42, 43], [44, 45, 46, 47], [48, 49, 50, 51, 52, 53, 54, 55], [56]], "labels": {"gpt-4o": [1, 1, 1, 1, -1, -1, -1, -1, 1, 1, 1, 1, 1, 1, 1, 1], "gpt-4.1": [1, 1, 1, 1, -1, -1, -1, -1, 1, 1, 1, 1, 1, 1, 1, 1], "an0": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], "an1": [1, 1, 1, 1, -1, -1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}}
+{"generation_id": "YbQzOeJBKZs570a5jU5siw", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13], [14]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1], "an0": [-1, 1], "an1": [-1, 1]}}
+{"generation_id": "PMgX-ZLtZfWdRA0AXHwj9A", "token_chunks": [[0, 1, 2, 3, 4], [5, 6, 7], [8, 9, 10, 11, 12, 13, 14, 15], [16, 17, 18, 19, 20, 21, 22, 23], [24, 25, 26, 27, 28, 29, 30, 31, 32], [33, 34, 35, 36], [37, 38, 39], [40]], "labels": {"gpt-4o": [1, 1, 1, 1, 1, -1, -1, 1], "gpt-4.1": [1, 1, 1, 1, 1, -1, -1, 1], "an0": [1, 1, 1, 1, 1, -1, 1, 1], "an1": [1, 1, 1, 1, 1, -1, -1, 1]}}
+{"generation_id": "XY5WQ0YBkk9SAlRApiZyyw", "token_chunks": [[0, 1, 2, 3, 4], [5]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1], "an0": [-1, 1], "an1": [-1, 1]}}
+{"generation_id": "tZeeQxBeyosgNgffNTt_xg", "token_chunks": [[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], [12]], "labels": {"gpt-4o": [-1, 1], "gpt-4.1": [-1, 1], "an0": [-1, 1], "an1": [-1, 1]}}
