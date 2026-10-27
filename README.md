@@ -1,10 +1,12 @@
 # Kernel Token Contradiction: a Fast and Principled Approach for LLM Claim Uncertainty Quantification
 
-Jérémie Dentan, Alexi Canesse, Mahammed El Sharkawy, Sonia Vanier
+Jérémie Dentan$^*$, Alexi Canesse$^*$, Mahammed El Sharkawy, Sonia Vanier
 
 *LIX (École Polytechnique, IP Paris, CNSR)*
 
-Arxiv link: [https://arxiv.org/pdf/2608.22506](https://arxiv.org/pdf/2608.22506)
+$^*$*Equal contributions*
+
+Accepted for publication at NeurIPS 2026. Arxiv link: [https://arxiv.org/pdf/2608.22506](https://arxiv.org/pdf/2608.22506)
 
 ## Repository Overview
 
@@ -139,13 +141,14 @@ Copyright 2025–present Laboratoire d'Informatique de l'École Polytechnique.
 
 This repository is released under the Apache-2.0 license.
 
-Please cite our work as:
+Our work was accepted for publication at NeurIPS 2026. Please cite our work as:
 
 ```bibtex
-@misc{dentan_ktc_2026,
-  title = {Kernel Token Contradiction: a Fast and Principled Approach for LLM Claim Uncertainty Quantification},
+@inproceedings{dentan_kernel_2026,
+  title = {Kernel Token Contradiction: A Fast and Principled Approach for LLM Claim Uncertainty Quantification},
   author = {Dentan, Jérémie and Canesse, Alexi and El Sharkawy, Mahammed and Vanier, Sonia},
-  year = {2026},
-  url = {https://arxiv.org/pdf/2608.22506},
+  booktitle = {Advances in Neural Information Processing Systems},
+  year = 2026,
+  doi = {10.48550/arXiv.2608.22506},
 }
 ```
